@@ -1,0 +1,6 @@
+# blocked
+chrome_extension_error: Browser is not available: extension
+computer_use_error: timed out while reading Chrome app state
+page_accessed: false
+screens_captured: 0
+estimated_cards_covered: 0

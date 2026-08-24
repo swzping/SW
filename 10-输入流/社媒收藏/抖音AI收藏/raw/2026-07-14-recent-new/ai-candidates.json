@@ -1,0 +1,13 @@
+{
+  "date": "2026-07-14",
+  "timezone": "Asia/Shanghai",
+  "status": "blocked",
+  "screensCaptured": 0,
+  "estimatedCardsCovered": 0,
+  "blockers": [
+    "Browser is not available: extension",
+    "Computer Use timed out while reading Chrome state"
+  ],
+  "candidates": [],
+  "possibleDuplicates": []
+}

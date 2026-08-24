@@ -1,0 +1,136 @@
+{
+  "date": "2026-07-17",
+  "timezone": "Asia/Shanghai",
+  "source": "douyin favorite_collection video recent top area",
+  "capture": {
+    "screens": 1,
+    "estimated_cards": 12,
+    "evidence_dir": "raw/2026-07-17-recent-new/",
+    "title_link_source": "accessibility-links.tsv",
+    "ocr_files": [
+      "ocr-01.tsv"
+    ],
+    "screenshot_files": [
+      "screen-01.png"
+    ],
+    "verified_time_seen": false,
+    "breakpoint_hit": true,
+    "notes": [
+      "Stopped after the first screen because two new AI-related items appeared before the 2026-07-16 seen-link run.",
+      "Titles and links were recovered from macOS Accessibility AXLink nodes; OCR is retained as screenshot evidence."
+    ]
+  },
+  "ai_candidates": [
+    {
+      "topic": "前端动效 / 工具生态",
+      "author": "渡一前端必修课（Ai全栈）",
+      "original_title": "GSAP已全部免费",
+      "url": "https://www.douyin.com/video/7661998481757801791",
+      "evidence": "screen-01",
+      "status": "AX确认标题和链接"
+    },
+    {
+      "topic": "Codex Skill / 灰产风险",
+      "author": "李流念",
+      "original_title": "Codex装上某个神秘skill之后用来破解各种付费软件简直逆天，杀疯了，买了Codex等于拥有了一切付费软件好吧",
+      "url": "https://www.douyin.com/note/7649445900960770240",
+      "evidence": "screen-01",
+      "status": "AX确认标题和链接"
+    }
+  ],
+  "suspected_duplicates": [
+    {
+      "topic": "Agent 评测 / 工程化",
+      "author": "老张的Agent",
+      "original_title": "如何做好Agent评测？靠感觉吗？",
+      "url": "https://www.douyin.com/video/7662683344727002387",
+      "evidence": "screen-01",
+      "status": "2026-07-16 已见"
+    },
+    {
+      "topic": "Agent 选型 / 工具对比",
+      "author": "珍妮丁丁说AI",
+      "original_title": "6款Agent工具实测：国内小白第一款到底选谁？ Codex、WorkBuddy、Claude Code、ZCode、Traework、OpenClaw……",
+      "url": "https://www.douyin.com/video/7662035533354257683",
+      "evidence": "screen-01",
+      "status": "2026-07-16 已见"
+    },
+    {
+      "topic": "AI 编程 / 前端组件",
+      "author": "小华同学ai",
+      "original_title": "ant-design-x-vue：发现一款开源免费的 Ant Design 扩展库，AI 对话开发效率直接翻倍",
+      "url": "https://www.douyin.com/video/7662401588220457124",
+      "evidence": "screen-01",
+      "status": "2026-07-16 已见"
+    },
+    {
+      "topic": "知识库 / 学习系统",
+      "author": "小小是白杨",
+      "original_title": "AI+知识库+知识卡，搭建高效读书系统",
+      "url": "https://www.douyin.com/video/7662380699954184090",
+      "evidence": "screen-01",
+      "status": "2026-07-16 已见"
+    },
+    {
+      "topic": "AI 动态 / Agent",
+      "author": "AI研究所",
+      "original_title": "第4集 | 7.14 AI热榜TOP5 | AI Agent生态爆发：从编码到安全的全面智能体化",
+      "url": "https://www.douyin.com/video/7662288876249060709",
+      "evidence": "screen-01",
+      "status": "2026-07-16 已见"
+    },
+    {
+      "topic": "Coding Agent / 记忆",
+      "author": "亦挽亦挽",
+      "original_title": "一句话让你的 codex 拥有永久记忆，并可随时调用",
+      "url": "https://www.douyin.com/video/7662370288369722984",
+      "evidence": "screen-01",
+      "status": "2026-07-16 已见"
+    },
+    {
+      "topic": "AI 应用 / 人脉",
+      "author": "AI观察员马特",
+      "original_title": "为什么我建议你和用AI应用的人做朋友？",
+      "url": "https://www.douyin.com/video/7660918456908401954",
+      "evidence": "screen-01",
+      "status": "2026-07-16 已见"
+    },
+    {
+      "topic": "UI Skill / 前端",
+      "author": "西瓜同学🍉",
+      "original_title": "我把设计经验做成UI Skill，新手也可让AI拥有高级审美",
+      "url": "https://www.douyin.com/video/7662251858534157620",
+      "evidence": "screen-01",
+      "status": "2026-07-16 已见"
+    },
+    {
+      "topic": "Coding Agent / 使用习惯",
+      "author": "均均很AI",
+      "original_title": "关掉Codex前必做一步，90%的人不知道！建议收藏！",
+      "url": "https://www.douyin.com/video/7661597461782298074",
+      "evidence": "screen-01",
+      "status": "2026-07-16 已见"
+    },
+    {
+      "topic": "桌面 Agent / 电脑控制",
+      "author": "IT小圈",
+      "original_title": "让Codex能操控你整台电脑，Codex只会写代码？35K Star神器，给它配上这个直接接管电脑",
+      "url": "https://www.douyin.com/video/7654887463021825316",
+      "evidence": "screen-01",
+      "status": "2026-07-16 已见"
+    }
+  ],
+  "breakpoint": {
+    "hit": true,
+    "first_seen_urls": [
+      "https://www.douyin.com/video/7662683344727002387",
+      "https://www.douyin.com/video/7662035533354257683",
+      "https://www.douyin.com/video/7662401588220457124",
+      "https://www.douyin.com/video/7662380699954184090",
+      "https://www.douyin.com/video/7662288876249060709",
+      "https://www.douyin.com/video/7662370288369722984",
+      "https://www.douyin.com/video/7660918456908401954"
+    ],
+    "note": "Two new AI-related items appeared before the 2026-07-16 seen-link run, so collection stopped after one screen."
+  }
+}

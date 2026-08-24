@@ -1,0 +1,168 @@
+{
+  "date": "2026-07-16",
+  "timezone": "Asia/Shanghai",
+  "source": "douyin favorite_collection video recent top area",
+  "capture": {
+    "screens": 1,
+    "estimated_cards": 18,
+    "evidence_dir": "raw/2026-07-16-recent-new/",
+    "title_link_source": "accessibility-links.tsv",
+    "ocr_files": [
+      "ocr-01.tsv"
+    ],
+    "screenshot_files": [
+      "screen-01.png"
+    ],
+    "verified_time_seen": false,
+    "breakpoint_hit": true,
+    "notes": [
+      "Stopped after the first screen because a continuous run of 2026-07-15 seen links appeared immediately after the new top items.",
+      "Titles and links were recovered from macOS Accessibility AXLink nodes; OCR is retained as screenshot evidence."
+    ]
+  },
+  "ai_candidates": [
+    {
+      "topic": "Agent 评测 / 工程化",
+      "author": "老张的Agent",
+      "original_title": "如何做好Agent评测？靠感觉吗？",
+      "url": "https://www.douyin.com/video/7662683344727002387",
+      "evidence": "screen-01",
+      "status": "AX确认标题和链接"
+    },
+    {
+      "topic": "Agent 选型 / 工具对比",
+      "author": "珍妮丁丁说AI",
+      "original_title": "6款Agent工具实测：国内小白第一款到底选谁？ Codex、WorkBuddy、Claude Code、ZCode、Traework、OpenClaw……",
+      "url": "https://www.douyin.com/video/7662035533354257683",
+      "evidence": "screen-01",
+      "status": "AX确认标题和链接"
+    },
+    {
+      "topic": "AI 编程 / 前端组件",
+      "author": "小华同学ai",
+      "original_title": "ant-design-x-vue：发现一款开源免费的 Ant Design 扩展库，AI 对话开发效率直接翻倍",
+      "url": "https://www.douyin.com/video/7662401588220457124",
+      "evidence": "screen-01",
+      "status": "AX确认标题和链接"
+    },
+    {
+      "topic": "Vibe Coding / Codex 实战",
+      "author": "蛙学长（粉丝群版）",
+      "original_title": "Vibecoding大赏 第一次视频，还是有很多不足，下次在修改",
+      "url": "https://www.douyin.com/video/7662597192070785637",
+      "evidence": "screen-01",
+      "status": "AX确认标题和链接"
+    },
+    {
+      "topic": "知识库 / 学习系统",
+      "author": "小小是白杨",
+      "original_title": "AI+知识库+知识卡，搭建高效读书系统",
+      "url": "https://www.douyin.com/video/7662380699954184090",
+      "evidence": "screen-01",
+      "status": "AX确认标题和链接"
+    }
+  ],
+  "suspected_duplicates": [
+    {
+      "topic": "AI 动态 / Agent",
+      "author": "AI研究所",
+      "original_title": "第4集 | 7.14 AI热榜TOP5 | AI Agent生态爆发：从编码到安全的全面智能体化",
+      "url": "https://www.douyin.com/video/7662288876249060709",
+      "evidence": "screen-01",
+      "status": "2026-07-15 已见"
+    },
+    {
+      "topic": "Coding Agent / 记忆",
+      "author": "亦挽亦挽",
+      "original_title": "一句话让你的 codex 拥有永久记忆，并可随时调用",
+      "url": "https://www.douyin.com/video/7662370288369722984",
+      "evidence": "screen-01",
+      "status": "2026-07-15 已见"
+    },
+    {
+      "topic": "AI 应用 / 人脉",
+      "author": "AI观察员马特",
+      "original_title": "为什么我建议你和用AI应用的人做朋友？",
+      "url": "https://www.douyin.com/video/7660918456908401954",
+      "evidence": "screen-01",
+      "status": "2026-07-15 已见"
+    },
+    {
+      "topic": "AI 智能体 / 内容生产",
+      "author": "沫沫",
+      "original_title": "ai大模型智能体，漫剧，短剧，商品带货全都能做，速度快，不排队，最主要是够便宜",
+      "url": "https://www.douyin.com/video/7662280979087679077",
+      "evidence": "screen-01",
+      "status": "2026-07-15 已见"
+    },
+    {
+      "topic": "UI Skill / 前端",
+      "author": "西瓜同学🍉",
+      "original_title": "我把设计经验做成UI Skill，新手也可让AI拥有高级审美",
+      "url": "https://www.douyin.com/video/7662251858534157620",
+      "evidence": "screen-01",
+      "status": "2026-07-15 已见"
+    },
+    {
+      "topic": "Coding Agent / 使用习惯",
+      "author": "均均很AI",
+      "original_title": "关掉Codex前必做一步，90%的人不知道！建议收藏！",
+      "url": "https://www.douyin.com/video/7661597461782298074",
+      "evidence": "screen-01",
+      "status": "2026-07-15 已见"
+    },
+    {
+      "topic": "桌面 Agent / 电脑控制",
+      "author": "IT小圈",
+      "original_title": "让Codex能操控你整台电脑，Codex只会写代码？35K Star神器，给它配上这个直接接管电脑",
+      "url": "https://www.douyin.com/video/7654887463021825316",
+      "evidence": "screen-01",
+      "status": "2026-07-15 已见"
+    },
+    {
+      "topic": "Agent 成本 / 开源",
+      "author": "小莫AI笔记",
+      "original_title": "10 万开发者接入，解决AI Agent最烧钱的问题",
+      "url": "https://www.douyin.com/video/7661854881023593768",
+      "evidence": "screen-01",
+      "status": "2026-07-15 已见"
+    },
+    {
+      "topic": "Codex 插件",
+      "author": "同旭AI",
+      "original_title": "Codex大更新后，这4个插件一定要装，装完直接从拉到夯！",
+      "url": "https://www.douyin.com/video/7661671147267722505",
+      "evidence": "screen-01",
+      "status": "2026-07-15 已见"
+    },
+    {
+      "topic": "Coding Agent / 持续执行",
+      "author": "小冯不意why",
+      "original_title": "一周没开电脑，项目天天在跑？ai时代随时随地都能开启项目+落地灵感的最佳实践",
+      "url": "https://www.douyin.com/video/7660514647171162874",
+      "evidence": "screen-01",
+      "status": "2026-07-15 已见"
+    },
+    {
+      "topic": "智能体定制",
+      "author": "大模型观察员Andy",
+      "original_title": "做了3个AI智能体后，我悟出了这套定制方法论",
+      "url": "https://www.douyin.com/video/7661453329196715306",
+      "evidence": "screen-01",
+      "status": "2026-07-15 已见"
+    }
+  ],
+  "breakpoint": {
+    "hit": true,
+    "first_seen_urls": [
+      "https://www.douyin.com/video/7662288876249060709",
+      "https://www.douyin.com/video/7662370288369722984",
+      "https://www.douyin.com/video/7660918456908401954",
+      "https://www.douyin.com/video/7662280979087679077",
+      "https://www.douyin.com/video/7662251858534157620",
+      "https://www.douyin.com/video/7661597461782298074",
+      "https://www.douyin.com/video/7654887463021825316"
+    ],
+    "note": "Five new AI-related items appeared before a continuous run of 2026-07-15 seen links, so collection stopped after one screen."
+  }
+}

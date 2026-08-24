@@ -1,0 +1,119 @@
+{
+  "date": "2026-07-20",
+  "breakpointHit": false,
+  "screensCaptured": 1,
+  "estimatedCards": 22,
+  "fresh": [
+    {
+      "category": "AI漫剧 / 工具",
+      "author": "铂浪AI（没回复👀主页）",
+      "title": "每天认识一款ai漫剧制作工具【第三期】",
+      "link": "https://www.douyin.com/video/7664162476426064814",
+      "evidence": "accessibility-links.tsv / screen-01 / ocr-01.tsv",
+      "summary": "延续 AI 漫剧工具盘点，偏内容生产工具认知。",
+      "next_action": "低到中优先级，只有当你继续做 AI 内容生产链路时再补具体工具名。",
+      "duplicateLikely": false
+    },
+    {
+      "category": "知识库 / 副业叙事",
+      "author": "辣个馒头",
+      "title": "打造个人知识库，抓住AI新风口，提前布局未来的副业",
+      "link": "https://www.douyin.com/video/7663894780431480229",
+      "evidence": "accessibility-links.tsv / screen-01 / ocr-01.tsv",
+      "summary": "把个人知识库包装成未来副业入口，和现有知识库主线同构。",
+      "next_action": "补其知识库结构是否只是概念包装，避免把副业叙事当方法论。",
+      "duplicateLikely": false
+    },
+    {
+      "category": "Vibe Coding / 设计动效",
+      "author": "粑粑boy",
+      "title": "这种动画效果AI也可以做了 vibe coding宝藏工具分享",
+      "link": "https://www.douyin.com/video/7664083115383590171",
+      "evidence": "accessibility-links.tsv / screen-01 / ocr-01.tsv",
+      "summary": "指向 AI 生成前端动效与 vibe coding 工具结合。",
+      "next_action": "补具体工具栈，看是否和 GSAP / Three.js / 页面生成工作流衔接。",
+      "duplicateLikely": false
+    },
+    {
+      "category": "知识库 / Obsidian",
+      "author": "六郎Talk AI",
+      "title": "Obsidian搭建AI知识库，它和传统的RAG有何不同？",
+      "link": "https://www.douyin.com/video/7662473214848666899",
+      "evidence": "accessibility-links.tsv / screen-01",
+      "summary": "继续围绕 Obsidian + AI 知识库，且开始比较 RAG 差异。",
+      "next_action": "高优先级，补它如何定义“知识库”和“RAG”的边界。",
+      "duplicateLikely": false
+    },
+    {
+      "category": "Agent Skill / 工具生态",
+      "author": "鹿森学AI-Lucien",
+      "title": "近期挖到了5个实用的AI Agent技能，安装量已经有22K了，而且还能跨平台使用～",
+      "link": "https://www.douyin.com/note/7663845787847382355",
+      "evidence": "accessibility-links.tsv / screen-01",
+      "summary": "关注 Agent Skill 安装量与跨平台分发，偏技能生态观察。",
+      "next_action": "补 5 个技能名称，判断是否值得纳入本地 Skill 雷达。",
+      "duplicateLikely": false
+    },
+    {
+      "category": "AI基础 / Skill-Token",
+      "author": "叶子AI",
+      "title": "到现在了你还不知道AI由什么组成吗？",
+      "link": "https://www.douyin.com/video/7663444550073035185",
+      "evidence": "accessibility-links.tsv / screen-01",
+      "summary": "标题里直接出现 skill / token，偏基础概念普及。",
+      "next_action": "低优先级，只在需要面向新手写解释型内容时回看。",
+      "duplicateLikely": false
+    },
+    {
+      "category": "Codex / 视频自动化",
+      "author": "橙光Lab",
+      "title": "小白一看就懂的，codex 剪视频一站式教程",
+      "link": "https://www.douyin.com/video/7663847091039616998",
+      "evidence": "accessibility-links.tsv / screen-01",
+      "summary": "把 Codex 用到视频剪辑的一站式教程，偏内容生产自动化。",
+      "next_action": "中高优先级，补具体剪辑链路与工具边界。",
+      "duplicateLikely": false
+    },
+    {
+      "category": "Codex / 开源复用",
+      "author": "AI时倾",
+      "title": "用Codex做东西，不一定每次都要从零开。",
+      "link": "https://www.douyin.com/note/7663592703875996131",
+      "evidence": "accessibility-links.tsv / screen-01",
+      "summary": "强调让 Codex 站在 GitHub 开源项目肩膀上做二次调整。",
+      "next_action": "可提炼为“先找基座项目再让 Agent 改”的工作流卡片。",
+      "duplicateLikely": false
+    },
+    {
+      "category": "Codex / Graphify 记忆",
+      "author": "巧掌柜笔记",
+      "title": "给 Codex 装上Graphify 这个 skill，不仅拥有一层永久记忆，Token 消耗还能减少 50 倍。",
+      "link": "https://www.douyin.com/video/7663727640645374198",
+      "evidence": "accessibility-links.tsv / screen-01",
+      "summary": "把 Graphify 叙事和 Codex 永久记忆、降 token 直接绑定。",
+      "next_action": "最高优先级，核验 Graphify 是否真有持久记忆和降耗机制。",
+      "duplicateLikely": false
+    },
+    {
+      "category": "知识图谱 / Graphify",
+      "author": "Gear",
+      "title": "大家一定要用 graphify 啊，构建你的知识图谱，把项目原本不明显的结构关系，很清晰明白地让你的 AI 编程更快理解代码库，是目前最节省 token的天花板技能了",
+      "link": "https://www.douyin.com/note/7634138148696885577",
+      "evidence": "accessibility-links.tsv / screen-01",
+      "summary": "直接把 Graphify 指向知识图谱和代码库理解加速。",
+      "next_action": "与上一条合并验证，判断它更像知识图谱索引还是泛化营销词。",
+      "duplicateLikely": false
+    },
+    {
+      "category": "Agent / 3D 网站框架",
+      "author": "小博",
+      "title": "AI Agent 自己造出了一个 3D 世界｜Mobius",
+      "link": "https://www.douyin.com/video/7663796658769071394",
+      "evidence": "accessibility-links.tsv / screen-01",
+      "summary": "把 Agent 自进化、扩展/技能、Svelte 5 + Three.js 3D 落地页串成一个完整案例。",
+      "next_action": "高优先级，补 Mobius 仓库与 Agent 扩展机制，适合并入前端 AI 工程化支线。",
+      "duplicateLikely": false
+    }
+  ],
+  "duplicates": []
+}

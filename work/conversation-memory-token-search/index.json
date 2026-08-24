@@ -1,0 +1,86 @@
+{
+  "generated_at": "2026-07-08T09:10:10.934739+08:00",
+  "query": "免费 token 服务商 抖音 收藏",
+  "exports": [
+    {
+      "id": "019f3f44-e188-7443-b926-d27090af0f8f",
+      "title": "查找免费token服务商视频",
+      "updated_at": "2026-07-08T01:09:50.977128Z",
+      "source": "/Users/edy/.codex/sessions/2026/07/08/rollout-2026-07-08T09-08-26-019f3f44-e188-7443-b926-d27090af0f8f.jsonl",
+      "export": "/Users/edy/Documents/SW/work/conversation-memory-token-search/2026-07-08-token-019f3f44.md",
+      "score": 54
+    },
+    {
+      "id": "019f3b76-3b1e-7a31-b7b3-7f2b0103227e",
+      "title": "查看抖音AI收藏最近10条",
+      "updated_at": "2026-07-07T07:24:57.896157Z",
+      "source": "/Users/edy/.codex/sessions/2026/07/07/rollout-2026-07-07T15-23-51-019f3b76-3b1e-7a31-b7b3-7f2b0103227e.jsonl",
+      "export": "/Users/edy/Documents/SW/work/conversation-memory-token-search/2026-07-07-AI-10-019f3b76.md",
+      "score": 30
+    },
+    {
+      "id": "019f12c9-1c43-7e50-aeb8-f0d6e6848c1b",
+      "title": "查找免费无限算力",
+      "updated_at": "2026-06-29T09:50:24.564378Z",
+      "source": "/Users/edy/.codex/sessions/2026/06/29/rollout-2026-06-29T17-49-57-019f12c9-1c43-7e50-aeb8-f0d6e6848c1b.jsonl",
+      "export": "/Users/edy/Documents/SW/work/conversation-memory-token-search/2026-06-29-thread-019f12c9.md",
+      "score": 15
+    },
+    {
+      "id": "019ecf6a-140f-7902-8640-ac8c6b1f81e1",
+      "title": "搭建 token 中转站",
+      "updated_at": "2026-06-16T07:52:13.337971Z",
+      "source": "/Users/edy/.codex/sessions/2026/06/16/rollout-2026-06-16T15-51-36-019ecf6a-140f-7902-8640-ac8c6b1f81e1.jsonl",
+      "export": "/Users/edy/Documents/SW/work/conversation-memory-token-search/2026-06-16-token-019ecf6a.md",
+      "score": 15
+    },
+    {
+      "id": "019eaf2a-26da-7ab3-8301-7b42983657c7",
+      "title": "处理免费物品展示问题",
+      "updated_at": "2026-06-10T01:35:20.736934Z",
+      "source": "/Users/edy/.codex/sessions/2026/06/10/rollout-2026-06-10T09-33-55-019eaf2a-26da-7ab3-8301-7b42983657c7.jsonl",
+      "export": "/Users/edy/Documents/SW/work/conversation-memory-token-search/2026-06-10-thread-019eaf2a.md",
+      "score": 15
+    },
+    {
+      "id": "019e4461-2d82-7552-b7e1-60be16a23b76",
+      "title": "排查 insertAppToken 未发起",
+      "updated_at": "2026-05-20T07:56:15.126817Z",
+      "source": "/Users/edy/.codex/sessions/2026/05/20/rollout-2026-05-20T15-54-39-019e4461-2d82-7552-b7e1-60be16a23b76.jsonl",
+      "export": "/Users/edy/Documents/SW/work/conversation-memory-token-search/2026-05-20-insertAppToken-019e4461.md",
+      "score": 15
+    },
+    {
+      "id": "019e3f2f-4c95-7061-84d4-239ff7535d9e",
+      "title": "分析清除 fcmToken 情况",
+      "updated_at": "2026-05-19T07:42:58.396616Z",
+      "source": "/Users/edy/.codex/sessions/2026/05/19/rollout-2026-05-19T15-42-04-019e3f2f-4c95-7061-84d4-239ff7535d9e.jsonl",
+      "export": "/Users/edy/Documents/SW/work/conversation-memory-token-search/2026-05-19-fcmToken-019e3f2f.md",
+      "score": 15
+    },
+    {
+      "id": "019ea5e9-e061-78d2-94dc-aad58bc24220",
+      "title": "处理免费赠品渲染",
+      "updated_at": "2026-06-08T06:29:01.696252Z",
+      "source": "/Users/edy/.codex/sessions/2026/06/08/rollout-2026-06-08T14-27-08-019ea5e9-e061-78d2-94dc-aad58bc24220.jsonl",
+      "export": "/Users/edy/Documents/SW/work/conversation-memory-token-search/2026-06-08-thread-019ea5e9.md",
+      "score": 12
+    },
+    {
+      "id": "019f3dc7-b288-7660-8820-0e2265947860",
+      "title": "每日18:00知识推进候选生成",
+      "updated_at": "2026-07-07T18:12:06.57894Z",
+      "source": "/Users/edy/.codex/sessions/2026/07/08/rollout-2026-07-08T02-12-05-019f3dc7-b288-7660-8820-0e2265947860.jsonl",
+      "export": "/Users/edy/Documents/SW/work/conversation-memory-token-search/2026-07-07-18-00-019f3dc7.md",
+      "score": 10
+    },
+    {
+      "id": "019f3c26-5268-73d1-9ab0-0d04f1877984",
+      "title": "每日18:00知识推进候选生成",
+      "updated_at": "2026-07-07T10:36:13.328817Z",
+      "source": "/Users/edy/.codex/sessions/2026/07/07/rollout-2026-07-07T18-36-12-019f3c26-5268-73d1-9ab0-0d04f1877984.jsonl",
+      "export": "/Users/edy/Documents/SW/work/conversation-memory-token-search/2026-07-07-18-00-019f3c26.md",
+      "score": 10
+    }
+  ]
+}

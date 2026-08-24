@@ -1,0 +1,704 @@
+depth	role	title	desc	value	url
+1	AXWindow	@守望的抖音 - 抖音 - Google Chrome			
+2	AXGroup	@守望的抖音 - 抖音 - Google Chrome			https://www.douyin.com/user/self?from_tab_name=main&showSubTab=video&showTab=favorite_collection
+3	AXGroup				
+4	AXGroup				
+5	AXGroup				
+6	AXGroup				
+7	AXToolbar				
+8	AXButton		返回		
+8	AXButton		前进		
+8	AXButton		重新加载		
+8	AXGroup				
+9	AXPopUpButton		查看网站信息		
+9	AXTextField		地址和搜索栏	douyin.com/user/self?from_tab_name=main&showSubTab=video&showTab=favorite_collection	
+9	AXGroup				
+10	AXButton		安装“抖音”		
+9	AXGroup				
+10	AXButton		为此标签页添加书签		
+8	AXGroup				
+9	AXPopUpButton		AdBlock - 拦截整个网络的广告 可以访问此网站		
+9	AXPopUpButton		身份验证器 想要访问此网站		
+9	AXPopUpButton		沙拉翻译：聚合词典 、划词翻译、沉浸式(对照)翻译 & 查词 可以访问此网站		
+9	AXPopUpButton		扩展程序		
+8	AXGroup				
+8	AXButton		ping		
+8	AXPopUpButton		有新版 Chrome 可用		
+7	AXToolbar		书签		
+8	AXToolbar		已保存的标签页分组		
+9	AXButton		标签页分组		
+8	AXSplitter		分隔符		
+8	AXPopUpButton		work		
+8	AXButton		SVG 动画 | Coder·码农网		
+8	AXButton		<basic-shape> - CSS：层叠样式表 | MDN		
+8	AXPopUpButton		fundebug		
+8	AXButton		不死鸟 - 分享为王		
+8	AXButton		ECharts 3.0源码简要分析1-总体架构 - 前端-后端学习之路 - CSDN博客		
+8	AXButton		SweetAlert 中文文档		
+8	AXButton		搜云盘		
+8	AXPopUpButton		问答社区		
+8	AXPopUpButton		学习课堂		
+8	AXPopUpButton		包含隐藏书签的菜单		
+8	AXPopUpButton		所有书签		
+8	AXSplitter		分隔符		
+6	AXGroup				
+7	AXGroup				
+8	AXGroup				
+9	AXWebArea	@守望的抖音 - 抖音			https://www.douyin.com/user/self?from_tab_name=main&showSubTab=video&showTab=favorite_collection
+10	AXGroup				
+11	AXButton	开启读屏标签			
+11	AXGroup				
+12	AXStaticText			读屏标签已关闭	
+11	AXGroup				
+12	AXGroup				
+13	AXGroup				
+13	AXGroup				
+14	AXLink				https://www.douyin.com/jingxuan
+14	AXGroup				
+15	AXGroup				
+16	AXGroup				
+15	AXGroup				
+16	AXGroup				
+17	AXGroup				
+18	AXLink		精选		https://www.douyin.com/jingxuan?from_nav=1
+19	AXGroup				
+20	AXStaticText			精选	
+17	AXGroup				
+18	AXLink		推荐		https://www.douyin.com/?recommend=1&from_nav=1
+19	AXGroup				
+20	AXStaticText			推荐	
+17	AXGroup				
+18	AXLink		搜索		https://www.douyin.com/aisearch?from_nav=1
+19	AXGroup				
+20	AXStaticText			搜索	
+17	AXGroup				
+18	AXLink		关注		https://www.douyin.com/follow?from_nav=1
+19	AXGroup				
+20	AXStaticText			关注	
+19	AXGroup				
+20	AXGroup				
+20	AXGroup				
+20	AXGroup				
+21	AXImage		要获取缺失的图片说明，请打开上下文菜单。		https://p26.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_5105c03b5fd07d0eb94d46c07cac1006.jpeg?from=3067671334
+17	AXGroup				
+18	AXLink		朋友 3		https://www.douyin.com/friend?from_nav=1
+19	AXGroup				
+20	AXStaticText			朋友	
+19	AXGroup				
+20	AXStaticText			3	
+17	AXGroup				
+18	AXLink		我的		https://www.douyin.com/user/self?from_nav=1
+19	AXGroup				
+20	AXStaticText			我的	
+17	AXGroup				
+18	AXLink		直播		https://live.douyin.com/?from_nav=1
+19	AXGroup				
+20	AXStaticText			直播	
+17	AXGroup				
+18	AXLink		放映厅		https://www.douyin.com/vs?from_nav=1
+19	AXGroup				
+20	AXStaticText			放映厅	
+17	AXGroup				
+18	AXLink		短剧		https://www.douyin.com/series?from_nav=1
+19	AXGroup				
+20	AXStaticText			短剧	
+17	AXGroup				
+18	AXGroup				
+19	AXImage		/jxWeakBtnBg.b27e25d68aab9de7.png		https://lf-douyin-pc-web.douyinstatic.com/obj/douyin-pc-web/ies/douyin_web/media/jxWeakBtnBg.b27e25d68aab9de7.png
+19	AXGroup				
+20	AXImage		/pLghpeAKra17jyXmwUAAAAAElFTkSuQmCC		data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACgAAAApCAYAAABHomvIAAAACXBIWXMAABYlAAAWJQFJUiTwAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAQzSURBVHgBzVk9aBxHFP52rSaQ+K5JIBDZ16QziQSpHIxO6RICOlcpUkhpQkgRqUgRAkGCgCE/xRFICG4kF8a4uhMYy92d8E9l0Mk/lYs7/4AtubiTZXBje/2+HZ9uZ3Z2ds+3sv3B43ZnZ2a//ebNm5l3wFsOz1q6+7AML5hBEJQRoAjPKwJBEfm+uif996TvjrBoIfBW8d77zVgt7e7J/RKeHlgWMmW8CXheCweeHcc7H3b2ivYePt6eELUa+Ss1NKjqNN79oMUbRVApt7Gv5G7fVb+Hx7PU7mHs+SSV9MPbp35tX8hdvAJ8dRz46GPgyGfKeP3DT8Cdu66WReVqVHD3fhnwG8gbv/wG/Hsy+fkhUXKtpn4T4U+Lgl4FeSONHEEFqaQTzypC0P8UeeL02XRyfdAFXPD8KV9iUQl54sRfe5elUgntdhvLy8uoVCooFi1uftvli0HRV0E4J1CRiPNPTEyEJOfm5lCr1dDtdsOyzJBFws919l7Sh2xmZgYjougjTxg+VS6X09tcv+F8PIZhsPMIuCYdnltTQ7mzo8oLBeDYUSF4ea9qf3hNkHSr1RoUUPWvv0QydreCVLt3K8CvPwcoHAxAz8hg4neBDY1GQ69bKKj+E96dPsQctqNfyOz8WymYEUn+RwUXFhYGBRyFE386enIp9/8/mRUzTWZs4IKQ1NvwXTYOieTOnLK+WBQIJGRoBDY2NgKJdVqdLGAb8dVB/3SjTARvXo35mzh86D9JiPrW0tJS7LkEbGu7arWqi3BoXKlJDokEv/0mRi7pBX2QVL+++SFsm9QH1U50lU+OWAiSeaSSLE+p5KIvYn0T/eEnyZWVFe0Z67t8OR4H/9MX+vn5eWs8azabWF9fD685Y3lP2ILz6upq+NvpdMJlj3VnZ2fDsl6vBzdMBUNZB18w7LDQp0ykqeS22KwZPOQMMxH1NZtxRkcRC8xDmh6ojW24bWjr9TqSwPrmbmVzcxOjwLmS2PZvLp+x+Z/rg7JAJ1g4qN3SqU249nNTU1PaPT+mP3leHaYPHh7XQoy5ZHHS2Jze5q+i3kj+h5gPEsc+1xTQtkZQfiYTIQwXvKYtLi5CJkOsq1GHV8FU8HwttoqkLfw2UGmMqB6sYcYYZhp3HsOS44flRHC7m6YizbYB2H9y6AKPttpWFX/8PtbAtpb2QTfgR4y2asSsLamPLUkawR47ePLnQdwA42P0zMGJZE6mnNCUIX5Qde6qLUq+RqvyXOyOBX/8DtlAZk2b5Y26yg/ubjeQJavK4+a5C3JUvJySssgF9JlJRbArCcyxIROYPB/zTEvCkfNwTuCCPynWyS8FfPHKQN1rNzACSG4aSkEjiR4qyWwrhsjwWMDzM1Ud3h2aYt+JdfoFCX9DMOvKxKbkDpmeG/VvCO4zQ4XXFOFemADoRYxnh/pLghpeAKra17jyXmwUAAAAAElFTkSuQmCC
+20	AXGroup				
+21	AXStaticText			下载抖音精选	
+17	AXGroup				
+18	AXGroup				
+19	AXGroup				
+20	AXGroup				
+21	AXImage				
+19	AXGroup				
+20	AXGroup				
+21	AXImage				
+19	AXGroup				
+20	AXGroup				
+21	AXImage				
+19	AXGroup				
+20	AXImage				
+17	AXGroup				
+18	AXGroup				
+19	AXGroup				
+20	AXStaticText			2026 © 抖音	
+19	AXGroup				
+20	AXLink		京ICP备16016397号-3		https://beian.miit.gov.cn/
+21	AXStaticText			京ICP备16016397号-3	
+19	AXGroup				
+20	AXLink		icon 京公网安备 11000002002046号		http://www.beian.gov.cn/portal/registerSystemInfo
+21	AXImage		icon		https://p3-pc-weboff.byteimg.com/tos-cn-i-9r5gewecjs/emblem.png
+21	AXStaticText			京公网安备 11000002002046号	
+19	AXGroup				
+20	AXStaticText			广播电视节目制作经营许可证 （京）字第11313号	
+19	AXGroup				
+20	AXStaticText			增值电信业务经营许可证 京B2-20170846	
+19	AXGroup				
+20	AXStaticText			网络文化经营许可证 京网文〔2025〕0181-061号	
+19	AXGroup				
+20	AXStaticText			互联网宗教信息服务许可证 京（2025）0000017	
+19	AXGroup				
+20	AXStaticText			药品医疗器械网络信息服务备案 （京）网药械信息备字（2023）第00570号	
+19	AXGroup				
+20	AXStaticText			互联网新闻信息服务许可证 11220230001	
+19	AXGroup				
+20	AXLink		网络谣言曝光台		https://www.piyao.org.cn/yybgt/index.htm
+21	AXStaticText			网络谣言曝光台	
+19	AXGroup				
+20	AXLink		网上有害信息举报		https://www.12377.cn/
+21	AXStaticText			网上有害信息举报	
+19	AXGroup				
+20	AXStaticText			违法和不良信息举报 400-140-2108 feedback@douyin.com	
+19	AXGroup				
+20	AXStaticText			算法推荐专项举报 sfjubao@bytedance.com	
+19	AXGroup				
+20	AXStaticText			体育饭圈专项举报 tyfq@bytedance.com	
+19	AXGroup				
+20	AXLink		广告投放		https://www.oceanengine.com/resource/douyin
+21	AXStaticText			广告投放	
+19	AXGroup				
+20	AXLink		用户服务协议		https://www.douyin.com/agreements/?id=6773906068725565448
+21	AXStaticText			用户服务协议	
+19	AXGroup				
+20	AXLink		隐私政策		https://www.douyin.com/agreements/?id=6773901168964798477
+21	AXStaticText			隐私政策	
+19	AXGroup				
+20	AXLink		账号找回		https://www.douyin.com/recovery_account/
+21	AXStaticText			账号找回	
+19	AXGroup				
+20	AXLink		联系我们		https://www.douyin.com/aboutus/
+21	AXStaticText			联系我们	
+19	AXGroup				
+20	AXLink		加入我们		https://www.douyin.com/aboutus/
+21	AXStaticText			加入我们	
+19	AXGroup				
+20	AXLink		营业执照		https://www.douyin.com/business_license/
+21	AXStaticText			营业执照	
+19	AXGroup				
+20	AXLink		友情链接		https://www.douyin.com/friend_links
+21	AXStaticText			友情链接	
+19	AXGroup				
+20	AXLink		站点地图		https://www.douyin.com/htmlmap/hotauthor_0_1
+21	AXStaticText			站点地图	
+19	AXGroup				
+20	AXLink		下载抖音		https://www.douyin.com/downloadpage/pc
+21	AXStaticText			下载抖音	
+19	AXGroup				
+20	AXLink		抖音电商		https://mix.jinritemai.com/falcon/mix_page/index.html
+21	AXStaticText			抖音电商	
+14	AXGroup				
+13	AXGroup				
+14	AXGroup				
+15	AXGroup				
+16	AXGroup				
+17	AXGroup				
+18	AXGroup				
+19	AXGroup				
+20	AXGroup				
+21	AXTextField				
+20	AXGroup				
+20	AXButton	搜索			
+21	AXImage				
+21	AXStaticText			搜索	
+17	AXGroup				
+18	AXGroup				
+19	AXGroup				
+20	AXGroup				
+21	AXGroup				
+22	AXGroup				
+23	AXImage				
+23	AXGroup				
+24	AXStaticText			充钻石	
+20	AXGroup				
+19	AXGroup				
+20	AXGroup				
+21	AXGroup				
+22	AXLink		客户端		https://www.douyin.com/download/pc/obj/douyin-pc-web/douyin-pc-client/7044145585217083655/releases/412317310/8.1.1/darwin-universal/douyin-v8.1.1-darwin-universal.dmg
+23	AXGroup				
+24	AXImage				
+24	AXGroup				
+25	AXStaticText			客户端	
+24	AXGroup				
+25	AXImage				
+19	AXGroup				
+20	AXGroup				
+21	AXGroup				
+22	AXGroup				
+23	AXGroup				
+23	AXImage				
+22	AXGroup				
+23	AXStaticText			壁纸	
+19	AXList				
+20	AXGroup				
+21	AXGroup				
+22	AXGroup				
+23	AXImage				
+23	AXGroup				
+24	AXStaticText			通知	
+19	AXList				
+20	AXGroup				
+21	AXGroup				
+22	AXGroup				
+23	AXGroup				
+24	AXGroup				
+25	AXStaticText			消息	
+23	AXGroup				
+24	AXGroup				
+25	AXStaticText			12	
+23	AXGroup				
+24	AXGroup				
+19	AXGroup				
+20	AXGroup				
+21	AXGroup				
+22	AXImage				
+22	AXGroup				
+23	AXStaticText			投稿	
+21	AXGroup				
+21	AXGroup				
+19	AXGroup				
+20	AXLink				https://www.douyin.com/user/self
+21	AXGroup				
+20	AXGroup				
+15	AXGroup				
+14	AXGroup				
+15	AXGroup				
+16	AXGroup				
+16	AXGroup				
+17	AXGroup				
+18	AXImage		@守望头像		https://p3-pc-sign.douyinpic.com/aweme-avatar/mosaic-legacy_23f6c00046a6da7624078~tplv-8yspqt5zfm-300x300.webp?lk3s=93de098e&x-expires=1784422800&x-signature=DW%2FQFptzqBBZNGKeqzL9H2unweI%3D&from=2480802190&s=profile&se=false&sc=avatar&l=202607170932149BCA3B845B174143E7EC
+17	AXGroup				
+18	AXHeading	@守望		1	
+19	AXStaticText			@守望	
+18	AXImage				
+17	AXGroup				
+18	AXGroup				
+19	AXStaticText			关注	
+18	AXGroup				
+19	AXStaticText			1406	
+18	AXGroup				
+19	AXGroup				
+20	AXImage				
+19	AXGroup				
+20	AXStaticText			30	
+20	AXStaticText			人正在直播	
+17	AXGroup				
+18	AXGroup				
+19	AXStaticText			粉丝	
+18	AXGroup				
+19	AXStaticText			95	
+17	AXGroup				
+18	AXStaticText			获赞	
+17	AXGroup				
+18	AXStaticText			86	
+17	AXStaticText			抖音号：	
+17	AXStaticText			183664272	
+17	AXImage				
+17	AXStaticText			男	
+17	AXGroup				
+18	AXStaticText			要不先发100个看看 怎么剪辑	
+17	AXGroup				
+18	AXGroup				
+19	AXGroup				
+20	AXGroup				
+21	AXGroup				
+22	AXImage				
+20	AXGroup				
+21	AXStaticText			保存登录信息	
+20	AXGroup				
+18	AXGroup				
+19	AXStaticText			下载电脑客户端，桌面快捷访问	
+18	AXLink		下载		https://www.douyin.com/download/pc/obj/douyin-pc-web/douyin-pc-client/7044145585217083655/releases/412317310/8.1.1/darwin-universal/douyin-v8.1.1-darwin-universal.dmg
+19	AXImage				
+19	AXStaticText			下载	
+16	AXGroup				
+17	AXGroup				
+18	AXGroup				
+19	AXGroup				
+20	AXTabGroup				
+21	AXRadioButton	作品 9		0	
+22	AXHeading	作品 9		2	
+23	AXStaticText			作品	
+23	AXStaticText			9	
+21	AXRadioButton	推荐		0	
+21	AXRadioButton	喜欢		0	
+21	AXRadioButton	收藏		1	
+21	AXRadioButton	观看历史		0	
+21	AXRadioButton	稍后再看		0	
+21	AXRadioButton	我的预约		0	
+20	AXGroup		收藏		
+19	AXGroup				
+20	AXStaticText			批量管理	
+17	AXGroup				
+18	AXGroup				
+19	AXGroup				
+20	AXTabGroup				
+21	AXRadioButton	收藏夹		0	
+21	AXRadioButton	视频		1	
+21	AXRadioButton	音乐		0	
+21	AXRadioButton	合集		0	
+21	AXRadioButton	短剧		0	
+20	AXGroup		视频		
+19	AXGroup				
+20	AXGroup				
+21	AXImage				
+21	AXStaticText			搜索你收藏的作品	
+20	AXGroup				
+21	AXTextField				
+18	AXList				
+19	AXGroup				
+20	AXLink		渡一前端必修课（Ai全栈）：GSAP已全部免费 #JavaScript #前端开发工程师 #编程 #程序员 #web前端 1941 GSAP已全部免费 #JavaScript #前端开发工程师 #编程 #程序员 #web前端		https://www.douyin.com/video/7661998481757801791
+21	AXGroup				
+22	AXGroup				
+23	AXGroup				
+24	AXImage		渡一前端必修课（Ai全栈）：GSAP已全部免费 #JavaScript #前端开发工程师 #编程 #程序员 #web前端		https://p3-pc-sign.douyinpic.com/tos-cn-i-dy/edc8a5f159074bbe8733ad9f98ffa7f3~tplv-dy-cropcenter:323:430.jpeg?biz_tag=pcweb_cover&from=327834062&lk3s=138a59ce&s=PackSourceEnum_COLLECTION&sc=cover&se=true&sh=323_430&x-expires=2099610000&x-signature=rBvZHiUMGtnZy9TKfVB9q9428%2B4%3D
+22	AXGroup				
+22	AXImage				
+22	AXStaticText			1941	
+21	AXGroup				
+22	AXStaticText			GSAP已全部免费 #JavaScript #前端开发工程师 #编程 #程序员 #web前端	
+19	AXGroup				
+20	AXLink		别哼哼（禾禾女士）：禾禾：你送外卖，又不是我送，让我记这些干什么#亲子日常 #人类幼崽 #人类幼崽的800个心眼子 #人类幼崽到底多可爱 #反应力 21.5万 禾禾：你送外卖，又不是我送，让我记这些干什么#亲子日常 #人类幼崽 #人类幼崽的800个心眼子 #人类幼崽到底多可爱 #反应力		https://www.douyin.com/video/7662342962483386491
+21	AXGroup				
+22	AXGroup				
+23	AXGroup				
+24	AXImage		别哼哼（禾禾女士）：禾禾：你送外卖，又不是我送，让我记这些干什么#亲子日常 #人类幼崽 #人类幼崽的800个心眼子 #人类幼崽到底多可爱 #反应力		https://p9-pc-sign.douyinpic.com/tos-cn-p-0015c000-ce/osI9veqAh4OxPx7WDEEQfVFVXrBCXwf2EHAjVF~tplv-dy-cropcenter:323:430.jpeg?biz_tag=pcweb_cover&from=327834062&lk3s=138a59ce&s=PackSourceEnum_COLLECTION&sc=cover&se=true&sh=323_430&x-expires=2099610000&x-signature=aSD5q01Ul%2FSOVISM%2Fib2mdm65pM%3D
+22	AXGroup				
+22	AXImage				
+22	AXStaticText			21.5万	
+21	AXGroup				
+22	AXStaticText			禾禾：你送外卖，又不是我送，让我记这些干什么#亲子日常 #人类幼崽 #人类幼崽的800个心眼子 #人类幼崽到底多可爱 #反应力	
+19	AXGroup				
+20	AXLink		李流念：Codex装上某个神秘skill之后用来破解各种付费软件简直逆天，杀疯了，买了Codex等于拥有了一切付费软件好吧#codex #免费软件推荐 #ai代码工具 #编程软件 #开源软件 4024 Codex装上某个神秘skill之后用来破解各种付费软件简直逆天，杀疯了，买了Codex等于拥有了一切付费软件好吧#codex #免费软件推荐 #ai代码工具 #编程软件 #开源软件		https://www.douyin.com/note/7649445900960770240
+21	AXGroup				
+22	AXGroup				
+23	AXGroup				
+24	AXImage		李流念：Codex装上某个神秘skill之后用来破解各种付费软件简直逆天，杀疯了，买了Codex等于拥有了一切付费软件好吧#codex #免费软件推荐 #ai代码工具 #编程软件 #开源软件		https://p3-pc-sign.douyinpic.com/tos-cn-i-0813c001/oAgAOEEaqAAalUz9ADClBbeKFApINQf9OANuQG~noop.jpeg?biz_tag=pcweb_cover&from=327834062&lk3s=138a59ce&s=PackSourceEnum_COLLECTION&se=false&x-expires=1785459600&x-signature=R%2F7UNzSnBSUKt%2BD5tuCRJfwMmmI%3D
+22	AXGroup				
+22	AXGroup				
+23	AXImage				
+22	AXImage				
+22	AXStaticText			4024	
+21	AXGroup				
+22	AXStaticText			Codex装上某个神秘skill之后用来破解各种付费软件简直逆天，杀疯了，买了Codex等于拥有了一切付费软件好吧#codex #免费软件推荐 #ai代码工具 #编程软件 #开源软件	
+19	AXGroup				
+20	AXLink		财经林妹妹：2026最大IPO来临！长鑫上市，跟你有啥关系？ #打新 #长鑫科技 #青年创作者成长计划 #燃起来了大国重器 #真财实学计划 2.6万 2026最大IPO来临！长鑫上市，跟你有啥关系？ #打新 #长鑫科技 #青年创作者成长计划 #燃起来了大国重器 #真财实学计划		https://www.douyin.com/video/7662759717684514067
+21	AXGroup				
+22	AXGroup				
+23	AXGroup				
+24	AXImage		财经林妹妹：2026最大IPO来临！长鑫上市，跟你有啥关系？ #打新 #长鑫科技 #青年创作者成长计划 #燃起来了大国重器 #真财实学计划		https://p3-pc-sign.douyinpic.com/tos-cn-i-dy/7a72317fec434cb08e6f10805cf416de~tplv-dy-cropcenter:323:430.jpeg?biz_tag=pcweb_cover&from=327834062&lk3s=138a59ce&s=PackSourceEnum_COLLECTION&sc=cover&se=true&sh=323_430&x-expires=2099610000&x-signature=AxMOgnKfhr6KOl3gOO%2ByJ70rzoY%3D
+22	AXGroup				
+22	AXImage				
+22	AXStaticText			2.6万	
+21	AXGroup				
+22	AXStaticText			2026最大IPO来临！长鑫上市，跟你有啥关系？ #打新 #长鑫科技 #青年创作者成长计划 #燃起来了大国重器 #真财实学计划	
+19	AXGroup				
+20	AXLink		老张的Agent：如何做好Agent评测？靠感觉吗？ #Agent开发 #AI工程 #人工智能 #程序员 #职业规划 87 如何做好Agent评测？靠感觉吗？ #Agent开发 #AI工程 #人工智能 #程序员 #职业规划		https://www.douyin.com/video/7662683344727002387
+21	AXGroup				
+22	AXGroup				
+23	AXGroup				
+24	AXImage		老张的Agent：如何做好Agent评测？靠感觉吗？ #Agent开发 #AI工程 #人工智能 #程序员 #职业规划		https://p3-pc-sign.douyinpic.com/tos-cn-i-dy/713a67cec26b42cea8420335bfb4617e~tplv-dy-cropcenter:323:430.jpeg?biz_tag=pcweb_cover&from=327834062&lk3s=138a59ce&s=PackSourceEnum_COLLECTION&sc=cover&se=true&sh=323_430&x-expires=2099610000&x-signature=VqSfNJlqdBHV4ODEcbrUxsBJbSw%3D
+22	AXGroup				
+22	AXImage				
+22	AXStaticText			87	
+21	AXGroup				
+22	AXStaticText			如何做好Agent评测？靠感觉吗？ #Agent开发 #AI工程 #人工智能 #程序员 #职业规划	
+19	AXGroup				
+20	AXLink		珍妮丁丁说AI：6款Agent工具实测：国内小白第一款到底选谁？ Codex、WorkBuddy、Claude Code、ZCode、Traework、OpenClaw…… 第一款 Agent 工具到底该选谁？ ✅先收藏，再根据自己的条件选第一款。你现在正在用哪一款 Agent？ #ai新星计划 #codex #workbuddy #Claudecode #Agent 1.6万 6款Agent工具实测：国内小白第一款到底选谁？ Codex、WorkBuddy、Claude Code、ZCode、Traework、OpenClaw…… 第一款 Agent 工具到底该选谁？ ✅先收藏，再根据自己的条件选第一款。你现在正在用哪一款 Agent？ #ai新星计划 #codex #workbuddy #Claudecode #Agent		https://www.douyin.com/video/7662035533354257683
+21	AXGroup				
+22	AXGroup				
+23	AXGroup				
+24	AXImage		珍妮丁丁说AI：6款Agent工具实测：国内小白第一款到底选谁？ Codex、WorkBuddy、Claude Code、ZCode、Traework、OpenClaw…… 第一款 Agent 工具到底该选谁？ ✅先收藏，再根据自己的条件选第一款。你现在正在用哪一款 Agent？ #ai新星计划 #codex #workbuddy #Claudecode #Agent		https://p3-pc-sign.douyinpic.com/tos-cn-i-dy/347ffef9f95347cf8c61d5dffd26951b~tplv-dy-cropcenter:323:430.jpeg?biz_tag=pcweb_cover&from=327834062&lk3s=138a59ce&s=PackSourceEnum_COLLECTION&sc=cover&se=true&sh=323_430&x-expires=2099610000&x-signature=AT3sHzVznkiK4xZT3SzZpsMJ6UE%3D
+22	AXGroup				
+22	AXImage				
+22	AXStaticText			1.6万	
+21	AXGroup				
+22	AXStaticText			6款Agent工具实测：国内小白第一款到底选谁？ Codex、WorkBuddy、Claude Code、ZCode、Traework、OpenClaw…… 第一款 Agent 工具到底该选谁？ ✅先收藏，再根据自己的条件选第一款。你现在正在用哪一款 Agent？ #ai新星计划 #codex #workbuddy #Claudecode #Agent	
+19	AXGroup				
+20	AXLink		小华同学ai：🚀🚀🚀ant-design-x-vue：救命！发现一款开源免费的Ant Design扩展库，AI对话开发效率直接翻倍#编程 #GitHub #程序员 #前端开发 27 🚀🚀🚀ant-design-x-vue：救命！发现一款开源免费的Ant Design扩展库，AI对话开发效率直接翻倍#编程 #GitHub #程序员 #前端开发		https://www.douyin.com/video/7662401588220457124
+21	AXGroup				
+22	AXGroup				
+23	AXGroup				
+24	AXImage		小华同学ai：🚀🚀🚀ant-design-x-vue：救命！发现一款开源免费的Ant Design扩展库，AI对话开发效率直接翻倍#编程 #GitHub #程序员 #前端开发		https://p3-pc-sign.douyinpic.com/tos-cn-i-0813/oIapUAQkkEIPK0IAlIaigw2ZBPLxBAiWAaaAR~tplv-dy-cropcenter:323:430.jpeg?biz_tag=pcweb_cover&from=327834062&lk3s=138a59ce&s=PackSourceEnum_COLLECTION&sc=cover&se=true&sh=323_430&x-expires=2099610000&x-signature=tkaYSCxg%2BDafJfJWCYqONxh%2BArk%3D
+22	AXGroup				
+22	AXImage				
+22	AXStaticText			27	
+21	AXGroup				
+22	AXStaticText			🚀🚀🚀ant-design-x-vue：救命！发现一款开源免费的Ant Design扩展库，AI对话开发效率直接翻倍#编程 #GitHub #程序员 #前端开发	
+19	AXGroup				
+20	AXLink		拯救萝卜丝：凭咱俩的关系送我一只好运莲莲小兔 不过分吧～#玩偶 #挂件 #阔爱炸了 2595 凭咱俩的关系送我一只好运莲莲小兔 不过分吧～#玩偶 #挂件 #阔爱炸了		https://www.douyin.com/video/7655616507891854074
+21	AXGroup				
+22	AXGroup				
+23	AXGroup				
+24	AXImage		拯救萝卜丝：凭咱俩的关系送我一只好运莲莲小兔 不过分吧～#玩偶 #挂件 #阔爱炸了		https://p3-pc-sign.douyinpic.com/tos-cn-i-0813c000-ce/o0eEPnoABjDDbkt8AAA9qmfaA5EFeNEqwI0Qxa~tplv-dy-cropcenter:323:430.jpeg?biz_tag=pcweb_cover&from=327834062&lk3s=138a59ce&s=PackSourceEnum_COLLECTION&sc=cover&se=true&sh=323_430&x-expires=2099610000&x-signature=vr55pwQKYUKxDsVwG78wVBobTd0%3D
+22	AXGroup				
+22	AXImage				
+22	AXStaticText			2595	
+21	AXGroup				
+22	AXStaticText			凭咱俩的关系送我一只好运莲莲小兔 不过分吧～#玩偶 #挂件 #阔爱炸了	
+19	AXGroup				
+20	AXLink		小小是白杨：AI+知识库+知识卡，搭建高效读书系统#AI知识库 #女性成长#赚钱副业 #认知提升 #姜胡说 75 AI+知识库+知识卡，搭建高效读书系统#AI知识库 #女性成长#赚钱副业 #认知提升 #姜胡说		https://www.douyin.com/video/7662380699954184090
+21	AXGroup				
+22	AXGroup				
+23	AXGroup				
+24	AXImage		小小是白杨：AI+知识库+知识卡，搭建高效读书系统#AI知识库 #女性成长#赚钱副业 #认知提升 #姜胡说		https://p3-pc-sign.douyinpic.com/tos-cn-i-0813c001/o8AAAqQWWF1IfCwA8BBxvES2CKPei9igApFAbn~tplv-dy-cropcenter:323:430.jpeg?biz_tag=pcweb_cover&from=327834062&lk3s=138a59ce&s=PackSourceEnum_COLLECTION&sc=cover&se=true&sh=323_430&x-expires=2099610000&x-signature=n4vEx2XzRf4Bs98x0W8eX53GNz4%3D
+22	AXGroup				
+22	AXImage				
+22	AXStaticText			75	
+21	AXGroup				
+22	AXStaticText			AI+知识库+知识卡，搭建高效读书系统#AI知识库 #女性成长#赚钱副业 #认知提升 #姜胡说	
+19	AXGroup				
+20	AXLink		大头崔：#黄昏 #罗文 #无声卡清唱#老歌回顾 #罗文黄昏 8014 #黄昏 #罗文 #无声卡清唱#老歌回顾 #罗文黄昏		https://www.douyin.com/video/7659394566873336015
+21	AXGroup				
+22	AXGroup				
+23	AXGroup				
+24	AXImage		大头崔：#黄昏 #罗文 #无声卡清唱#老歌回顾 #罗文黄昏		https://p3-pc-sign.douyinpic.com/tos-cn-i-0813c001/ok3gNhRGAOLA6uNq9CICACzeYEQVIAFXACASfD~tplv-dy-cropcenter:323:430.jpeg?biz_tag=pcweb_cover&from=327834062&lk3s=138a59ce&s=PackSourceEnum_COLLECTION&sc=cover&se=true&sh=323_430&x-expires=2099610000&x-signature=c6%2FiDvJe711Jv5Dv5xSy%2BL9Omek%3D
+22	AXGroup				
+22	AXImage				
+22	AXStaticText			8014	
+21	AXGroup				
+22	AXStaticText			#黄昏 #罗文 #无声卡清唱#老歌回顾 #罗文黄昏	
+19	AXGroup				
+20	AXLink		AI研究所：第4集 | 7.14 AI热榜TOP5 | AI Agent生态爆发：从编码到安全的全面智能体化 1、Hermes Agent·桌面端配置面板修复，Windows工具包路径优化 2、Claude Code·每周三次小版本迭代，持续优化上下文理解 3、Spec Kit·新增Memory扩展和Test-First预设 4、DeerFlow·对齐firecrawl-py v2 SDK，前端分支操作优化 5、Strix·新增非前沿模型警告，遥测系统更新 AI研究所，每日更新AI动态，每周深度分析。 #AI #HermesAgent #ClaudeCode #SpecKit #DeerFlow 400 第4集 | 7.14 AI热榜TOP5 | AI Agent生态爆发：从编码到安全的全面智能体化 1、Hermes Agent·桌面端配置面板修复，Windows工具包路径优化 2、Claude Code·每周三次小版本迭代，持续优化上下文理解 3、Spec Kit·新增Memory扩展和Test-First预设 4、DeerFlow·对齐firecrawl-py v2 SDK，前端分支操作优化 5、Strix·新增非前沿模型警告，遥测系统更新 AI研究所，每日更新AI动态，每周深度分析。 #AI #HermesAgent #ClaudeCode #SpecKit #DeerFlow		https://www.douyin.com/video/7662288876249060709
+21	AXGroup				
+22	AXGroup				
+23	AXGroup				
+24	AXImage		AI研究所：第4集 | 7.14 AI热榜TOP5 | AI Agent生态爆发：从编码到安全的全面智能体化 1、Hermes Agent·桌面端配置面板修复，Windows工具包路径优化 2、Claude Code·每周三次小版本迭代，持续优化上下文理解 3、Spec Kit·新增Memory扩展和Test-First预设 4、DeerFlow·对齐firecrawl-py v2 SDK，前端分支操作优化 5、Strix·新增非前沿模型警告，遥测系统更新 AI研究所，每日更新AI动态，每周深度分析。 #AI #HermesAgent #ClaudeCode #SpecKit #DeerFlow		https://p3-pc-sign.douyinpic.com/tos-cn-p-0015c000-ce/oQff1eOQqDJFgG6ICQtM0oAX7xsgkUzJDB7rEi~tplv-dy-cropcenter:323:430.jpeg?biz_tag=pcweb_cover&from=327834062&lk3s=138a59ce&s=PackSourceEnum_COLLECTION&sc=cover&se=true&sh=323_430&x-expires=2099610000&x-signature=Vw%2B%2BWDiiBkcWycKBqQG0MQgwwSo%3D
+22	AXGroup				
+22	AXImage				
+22	AXStaticText			400	
+21	AXGroup				
+22	AXStaticText			第4集 | 7.14 AI热榜TOP5 | AI Agent生态爆发：从编码到安全的全面智能体化 1、Hermes Agent·桌面端配置面板修复，Windows工具包路径优化 2、Claude Code·每周三次小版本迭代，持续优化上下文理解 3、Spec Kit·新增Memory扩展和Test-First预设 4、DeerFlow·对齐firecrawl-py v2 SDK，前端分支操作优化 5、Strix·新增非前沿模型警告，遥测系统更新 AI研究所，每日更新AI动态，每周深度分析。 #AI #HermesAgent #ClaudeCode #SpecKit #DeerFlow	
+19	AXGroup				
+20	AXLink		亦挽亦挽：一句话让你的 codex 拥有永久记忆，并可随时调用。更加进阶版的树状知识库请期待下集#企业AI #obsidian #老板必看 #企业管理 1012 一句话让你的 codex 拥有永久记忆，并可随时调用。更加进阶版的树状知识库请期待下集#企业AI #obsidian #老板必看 #企业管理		https://www.douyin.com/video/7662370288369722984
+21	AXGroup				
+22	AXGroup				
+23	AXGroup				
+24	AXImage		亦挽亦挽：一句话让你的 codex 拥有永久记忆，并可随时调用。更加进阶版的树状知识库请期待下集#企业AI #obsidian #老板必看 #企业管理		https://p3-pc-sign.douyinpic.com/tos-cn-i-0813c001/o8wO1llW6AAABIE2SovAaNAgPiIBxiAESgYKw~tplv-dy-cropcenter:323:430.jpeg?biz_tag=pcweb_cover&from=327834062&lk3s=138a59ce&s=PackSourceEnum_COLLECTION&sc=cover&se=true&sh=323_430&x-expires=2099610000&x-signature=UB%2FbPQfufSX55wNFXNqYvQSoOPI%3D
+22	AXGroup				
+22	AXImage				
+22	AXStaticText			1012	
+21	AXGroup				
+22	AXStaticText			一句话让你的 codex 拥有永久记忆，并可随时调用。更加进阶版的树状知识库请期待下集#企业AI #obsidian #老板必看 #企业管理	
+19	AXGroup				
+20	AXLink		经典木读：范蠡五十二岁悟透，人生只解决一个问题！ 2.1万 范蠡五十二岁悟透，人生只解决一个问题！		https://www.douyin.com/video/7658860346894978339
+21	AXGroup				
+22	AXGroup				
+23	AXGroup				
+24	AXImage		经典木读：范蠡五十二岁悟透，人生只解决一个问题！ 		https://p3-pc-sign.douyinpic.com/tos-cn-i-dy/1f9aa0c172da483ca68e7b83903d4c14~tplv-dy-cropcenter:323:430.jpeg?biz_tag=pcweb_cover&from=327834062&lk3s=138a59ce&s=PackSourceEnum_COLLECTION&sc=cover&se=true&sh=323_430&x-expires=2099610000&x-signature=JX9AnxCdVwmQnGqIXxj7z5q9i2E%3D
+22	AXGroup				
+22	AXImage				
+22	AXStaticText			2.1万	
+21	AXGroup				
+22	AXStaticText			范蠡五十二岁悟透，人生只解决一个问题！	
+19	AXGroup				
+20	AXLink		AI观察员马特：为什么我建议你和用AI应用的人做朋友？ #ClaudeCode #Codex #AI #人工智能 4246 为什么我建议你和用AI应用的人做朋友？ #ClaudeCode #Codex #AI #人工智能		https://www.douyin.com/video/7660918456908401954
+21	AXGroup				
+22	AXGroup				
+23	AXGroup				
+24	AXImage		AI观察员马特：为什么我建议你和用AI应用的人做朋友？ #ClaudeCode #Codex #AI #人工智能		https://p3-pc-sign.douyinpic.com/tos-cn-i-dy/d5cebd57cc104c71a779680cc905a839~tplv-dy-cropcenter:323:430.jpeg?biz_tag=pcweb_cover&from=327834062&lk3s=138a59ce&s=PackSourceEnum_COLLECTION&sc=cover&se=true&sh=323_430&x-expires=2099610000&x-signature=ZvAgVKLuTp2A5T%2FJdEHdSIsPW%2BA%3D
+22	AXGroup				
+22	AXImage				
+22	AXStaticText			4246	
+21	AXGroup				
+22	AXStaticText			为什么我建议你和用AI应用的人做朋友？ #ClaudeCode #Codex #AI #人工智能	
+19	AXGroup				
+20	AXLink		沫沫：ai大模型智能体，漫剧，短剧，商品带货全都能做，速度快，不排队，最主要是够便宜#ai #智能体 #ai大模型 #跨境电商 #漫剧 15 ai大模型智能体，漫剧，短剧，商品带货全都能做，速度快，不排队，最主要是够便宜#ai #智能体 #ai大模型 #跨境电商 #漫剧		https://www.douyin.com/video/7662280979087679077
+21	AXGroup				
+22	AXGroup				
+23	AXGroup				
+24	AXImage		沫沫：ai大模型智能体，漫剧，短剧，商品带货全都能做，速度快，不排队，最主要是够便宜#ai #智能体 #ai大模型 #跨境电商 #漫剧		https://p3-pc-sign.douyinpic.com/tos-cn-p-0015c000-ce/oIAJBfbrSmUQfDTrkCDesImYOqx7ENFgTRDBOd~tplv-dy-cropcenter:323:430.jpeg?biz_tag=pcweb_cover&from=327834062&lk3s=138a59ce&s=PackSourceEnum_COLLECTION&sc=cover&se=true&sh=323_430&x-expires=2099610000&x-signature=4cpW7svvOw%2BMiQ5kaC33ca2ODWQ%3D
+22	AXGroup				
+22	AXImage				
+22	AXStaticText			15	
+21	AXGroup				
+22	AXStaticText			ai大模型智能体，漫剧，短剧，商品带货全都能做，速度快，不排队，最主要是够便宜#ai #智能体 #ai大模型 #跨境电商 #漫剧	
+19	AXGroup				
+20	AXLink		西瓜同学🍉：我把设计经验做成UI Skill，新手也可让AI拥有高级审美 这一期分享我的 Codex UI Skill 工作流。 我把设计经验整理成 UI Skill，从设计审美、动画、工程思维到自动测试，让 AI 做出的网页更有高级感，新手也能快速上手。 #技术分享 #Codex #UI设计 #skills #web前端 3323 我把设计经验做成UI Skill，新手也可让AI拥有高级审美 这一期分享我的 Codex UI Skill 工作流。 我把设计经验整理成 UI Skill，从设计审美、动画、工程思维到自动测试，让 AI 做出的网页更有高级感，新手也能快速上手。 #技术分享 #Codex #UI设计 #skills #web前端		https://www.douyin.com/video/7662251858534157620
+21	AXGroup				
+22	AXGroup				
+23	AXGroup				
+24	AXImage		西瓜同学🍉：我把设计经验做成UI Skill，新手也可让AI拥有高级审美 这一期分享我的 Codex UI Skill 工作流。 我把设计经验整理成 UI Skill，从设计审美、动画、工程思维到自动测试，让 AI 做出的网页更有高级感，新手也能快速上手。 #技术分享 #Codex #UI设计 #skills #web前端		https://p3-pc-sign.douyinpic.com/tos-cn-i-dy/f35e98bac3224fd290987e5b01ba6458~tplv-dy-cropcenter:323:430.jpeg?biz_tag=pcweb_cover&from=327834062&lk3s=138a59ce&s=PackSourceEnum_COLLECTION&sc=cover&se=true&sh=323_430&x-expires=2099610000&x-signature=xRt8p0%2FIpYQQmj3fg3e0xEmsTCg%3D
+22	AXGroup				
+22	AXImage				
+22	AXStaticText			3323	
+21	AXGroup				
+22	AXStaticText			我把设计经验做成UI Skill，新手也可让AI拥有高级审美 这一期分享我的 Codex UI Skill 工作流。 我把设计经验整理成 UI Skill，从设计审美、动画、工程思维到自动测试，让 AI 做出的网页更有高级感，新手也能快速上手。 #技术分享 #Codex #UI设计 #skills #web前端	
+19	AXGroup				
+20	AXLink		裕宽：42岁985毕业的人跑滴滴。目前中老年高知分子的尴尬现状#散心之旅 #慢下来看世界沿途的风景很美 #河畔步道 #城市漫步日常 1.1万 42岁985毕业的人跑滴滴。目前中老年高知分子的尴尬现状#散心之旅 #慢下来看世界沿途的风景很美 #河畔步道 #城市漫步日常		https://www.douyin.com/note/7661087472449859674
+21	AXGroup				
+22	AXGroup				
+23	AXGroup				
+24	AXImage		裕宽：42岁985毕业的人跑滴滴。目前中老年高知分子的尴尬现状#散心之旅 #慢下来看世界沿途的风景很美 #河畔步道 #城市漫步日常		https://p3-pc-sign.douyinpic.com/tos-cn-i-0813c001/okEWs9CqoURpXFwBvvBDdgAADeAfAbRApIAnEa~noop.jpeg?biz_tag=pcweb_cover&from=327834062&lk3s=138a59ce&s=PackSourceEnum_COLLECTION&se=false&x-expires=1785459600&x-signature=DekdFFl63eilhTmGnZ81PUoifMA%3D
+22	AXGroup				
+22	AXGroup				
+23	AXImage				
+22	AXImage				
+22	AXStaticText			1.1万	
+21	AXGroup				
+22	AXStaticText			42岁985毕业的人跑滴滴。目前中老年高知分子的尴尬现状#散心之旅 #慢下来看世界沿途的风景很美 #河畔步道 #城市漫步日常	
+19	AXGroup				
+20	AXLink		均均很AI：关掉Codex前必做一步，90%的人不知道！建议收藏！#职场办公技巧 #职场干货分享 #codex #打工人必备技能 #AI办公神器 4237 关掉Codex前必做一步，90%的人不知道！建议收藏！#职场办公技巧 #职场干货分享 #codex #打工人必备技能 #AI办公神器		https://www.douyin.com/video/7661597461782298074
+21	AXGroup				
+22	AXGroup				
+23	AXGroup				
+24	AXImage		均均很AI：关掉Codex前必做一步，90%的人不知道！建议收藏！#职场办公技巧 #职场干货分享 #codex #打工人必备技能 #AI办公神器		https://p3-pc-sign.douyinpic.com/tos-cn-i-0813c001/oAXuJtAyfQAYwAPUAoAUQ7Im8yBCfEBGeMt7pW~tplv-dy-cropcenter:323:430.jpeg?biz_tag=pcweb_cover&from=327834062&lk3s=138a59ce&s=PackSourceEnum_COLLECTION&sc=cover&se=true&sh=323_430&x-expires=2099610000&x-signature=yDTxxCLTvvZ1B%2BITMSxjLaaCH%2BE%3D
+22	AXGroup				
+22	AXImage				
+22	AXStaticText			4237	
+21	AXGroup				
+22	AXStaticText			关掉Codex前必做一步，90%的人不知道！建议收藏！#职场办公技巧 #职场干货分享 #codex #打工人必备技能 #AI办公神器	
+19	AXGroup				
+20	AXLink		IT小圈：让Codex能操控你整台电脑，Codex只会写代码？35K Star神器，给它配上这个直接接管电脑 #Codex #AgentTars #字节开源 #ai新星计划 @抖音科技 #vibecoding大赏 5225 让Codex能操控你整台电脑，Codex只会写代码？35K Star神器，给它配上这个直接接管电脑 #Codex #AgentTars #字节开源 #ai新星计划 @抖音科技 #vibecoding大赏		https://www.douyin.com/video/7654887463021825316
+21	AXGroup				
+22	AXGroup				
+23	AXGroup				
+24	AXImage		IT小圈：让Codex能操控你整台电脑，Codex只会写代码？35K Star神器，给它配上这个直接接管电脑 #Codex #AgentTars #字节开源 #ai新星计划 @抖音科技 #vibecoding大赏		https://p3-pc-sign.douyinpic.com/tos-cn-i-0629/oIAiHVbqE9zTGkHBR98BfglqtXAiAAqQAxE1IN~tplv-dy-cropcenter:323:430.jpeg?biz_tag=pcweb_cover&from=327834062&lk3s=138a59ce&s=PackSourceEnum_COLLECTION&sc=cover&se=true&sh=323_430&x-expires=2099610000&x-signature=bs3PgokfrsT%2Bash%2F%2BST9tnZgSYs%3D
+22	AXGroup				
+22	AXImage				
+22	AXStaticText			5225	
+21	AXGroup				
+22	AXStaticText			让Codex能操控你整台电脑，Codex只会写代码？35K Star神器，给它配上这个直接接管电脑 #Codex #AgentTars #字节开源 #ai新星计划 @抖音科技 #vibecoding大赏	
+18	AXGroup				
+15	AXGroup				
+16	AXGroup				
+17	AXGroup				
+18	AXGroup				
+19	AXLink		广告投放		https://www.oceanengine.com/resource/douyin
+20	AXStaticText			广告投放	
+18	AXGroup				
+19	AXLink		用户服务协议		https://www.douyin.com/agreements/?id=6773906068725565448
+20	AXStaticText			用户服务协议	
+18	AXGroup				
+19	AXLink		隐私政策		https://www.douyin.com/agreements/?id=6773901168964798477
+20	AXStaticText			隐私政策	
+18	AXGroup				
+19	AXLink		账号找回		https://www.douyin.com/recovery_account/
+20	AXStaticText			账号找回	
+18	AXGroup				
+19	AXLink		联系我们		https://www.douyin.com/aboutus/
+20	AXStaticText			联系我们	
+18	AXGroup				
+19	AXLink		加入我们		https://www.douyin.com/aboutus/
+20	AXStaticText			加入我们	
+18	AXGroup				
+19	AXLink		营业执照		https://www.douyin.com/business_license/
+20	AXStaticText			营业执照	
+18	AXGroup				
+19	AXLink		友情链接		https://www.douyin.com/friend_links
+20	AXStaticText			友情链接	
+18	AXGroup				
+19	AXLink		站点地图		https://www.douyin.com/htmlmap/hotauthor_0_1
+20	AXStaticText			站点地图	
+18	AXGroup				
+19	AXLink		下载抖音		https://www.douyin.com/downloadpage/pc
+20	AXStaticText			下载抖音	
+18	AXGroup				
+19	AXLink		抖音电商		https://mix.jinritemai.com/falcon/mix_page/index.html
+20	AXStaticText			抖音电商	
+17	AXGroup				
+18	AXGroup				
+19	AXLink		网络谣言曝光台 ｜		https://www.piyao.org.cn/yybgt/index.htm
+20	AXStaticText			网络谣言曝光台 ｜	
+18	AXGroup				
+19	AXLink		网上有害信息举报		https://www.12377.cn/
+20	AXStaticText			网上有害信息举报	
+18	AXGroup				
+19	AXStaticText			｜ 违法和不良信息举报：400-140-2108 feedback@douyin.com ｜ 算法推荐专项举报：sfjubao@bytedance.com | 体育饭圈专项举报：tyfq@bytedance.com	
+17	AXGroup				
+18	AXGroup				
+19	AXLink		京ICP备16016397号-3		https://beian.miit.gov.cn/
+20	AXStaticText			京ICP备16016397号-3	
+18	AXGroup				
+19	AXStaticText			｜ 广播电视节目制作经营许可证 （京）字第11313号	
+18	AXGroup				
+19	AXStaticText			｜ 增值电信业务经营许可证 京B2-20170846	
+18	AXGroup				
+19	AXStaticText			｜ 网络文化经营许可证 京网文〔2025〕0181-061号 ｜	
+18	AXGroup				
+19	AXImage		icon		https://p3-pc-weboff.byteimg.com/tos-cn-i-9r5gewecjs/emblem.png
+19	AXLink		京公网安备 11000002002046号		http://www.beian.gov.cn/portal/registerSystemInfo
+20	AXStaticText			京公网安备 11000002002046号	
+18	AXGroup				
+19	AXStaticText			｜ 互联网宗教信息服务许可证 京（2025）0000017	
+17	AXGroup				
+18	AXStaticText			热门：	
+17	AXGroup				
+18	AXLink		抖音热门歌曲		https://www.douyin.com/jingxuan/music
+19	AXStaticText			抖音热门歌曲	
+17	AXGroup				
+18	AXLink		抖音音乐		https://www.douyin.com/jingxuan/music
+19	AXStaticText			抖音音乐	
+17	AXGroup				
+18	AXLink		忠博商贸有限公司		https://www.douyin.com/user/MS4wLjABAAAAyn8_DemFzW2g7p90m_0g-0KogNNEHqzAVsWPH1fa37A
+19	AXStaticText			忠博商贸有限公司	
+17	AXGroup				
+18	AXLink		虽然文化不好没去武音 但也知足了 研究生再战武音		https://www.douyin.com/note/7663095481576364022
+19	AXStaticText			虽然文化不好没去武音 但也知足了 研究生再战武音	
+17	AXGroup				
+18	AXLink		八省联考江西排名		https://www.douyin.com/topic/7509883476020299812
+19	AXStaticText			八省联考江西排名	
+17	AXGroup				
+18	AXLink		孝义一中今年高考状元		https://www.douyin.com/shipin/7509913260007786548
+19	AXStaticText			孝义一中今年高考状元	
+17	AXGroup				
+18	AXLink		高考试听什么时间		https://www.douyin.com/search/%E9%AB%98%E8%80%83%E8%AF%95%E5%90%AC%E4%BB%80%E4%B9%88%E6%97%B6%E9%97%B4
+19	AXStaticText			高考试听什么时间	
+17	AXGroup				
+18	AXLink		井胧销冠的秘诀		https://www.douyin.com/video/7646367683358229353?source=Baiduspider
+19	AXStaticText			井胧销冠的秘诀	
+17	AXGroup				
+18	AXLink		#云翔篮球训练营 #核心训练#青少年篮球培训 单招特训班核心对抗进阶训练📸核心训练需保持动作的完整度，尽量放慢速度，用核心肌群控制重心和平衡💪🏻#核心力量 #每日一练		https://www.douyin.com/video/7152522928268021028?source=Baiduspider
+19	AXStaticText			#云翔篮球训练营 #核心训练#青少年篮球培训 单招特训班核心对抗进阶训练📸核心训练需保持动作的完整度，尽量放慢速度，用核心肌群控制重心和平衡💪🏻#核心力量 #每日一练	
+17	AXGroup				
+18	AXLink		#探索宇宙 #宇宙 #太阳系 #地球 #太阳		https://www.douyin.com/video/7139814362579029278?source=Baiduspider
+19	AXStaticText			#探索宇宙 #宇宙 #太阳系 #地球 #太阳	
+17	AXGroup				
+18	AXLink		AUX/奥克斯10L大容量可视低脂空气炸锅一体机电烤箱多功能新款 #奥克斯10L大容量可视低脂空气炸锅 #可视低脂空气炸锅 #一体机电烤箱		https://www.douyin.com/video/7577288375661595913?source=Baiduspider-sdc
+19	AXStaticText			AUX/奥克斯10L大容量可视低脂空气炸锅一体机电烤箱多功能新款 #奥克斯10L大容量可视低脂空气炸锅 #可视低脂空气炸锅 #一体机电烤箱	
+17	AXGroup				
+18	AXLink		视频有点长，希望可以认真看完！@韩汶栩 #100万粉丝 会越来越好一直都是我们的约定		https://www.douyin.com/video/7344219569059351823?source=Baiduspider
+19	AXStaticText			视频有点长，希望可以认真看完！@韩汶栩 #100万粉丝 会越来越好一直都是我们的约定	
+17	AXGroup				
+18	AXLink		中国四大豪宅之一的乔家大院到底有多神秘？#乔家大院 #山西 #山西旅游#寻美中国		https://www.douyin.com/video/7374250647295773992?source=Baiduspider
+19	AXStaticText			中国四大豪宅之一的乔家大院到底有多神秘？#乔家大院 #山西 #山西旅游#寻美中国	
+17	AXGroup				
+18	AXLink		精讲119：持仓是顶级交易员的基本功。 #期权 #期货 #股票 #财经 #投资心态		https://www.douyin.com/video/7375392087488941346?source=Baiduspider-sdc
+19	AXStaticText			精讲119：持仓是顶级交易员的基本功。 #期权 #期货 #股票 #财经 #投资心态	
+12	AXGroup				
+12	AXGroup				
+12	AXGroup				
+12	AXGroup				
+11	AXGroup				
+11	AXGroup				
+11	AXGroup				
+12	AXGroup				
+11	AXGroup				
+11	AXGroup				
+10	AXGroup				
+11	AXGroup				
+12	AXGroup				
+13	AXGroup				
+14	AXButton				
+8	AXGroup				
+6	AXTabGroup				
+7	AXGroup				
+8	AXPopUpButton		标签页搜索		
+7	AXGroup				
+8	AXGroup				
+9	AXRadioButton		@守望的抖音 - 抖音	1	
+10	AXButton		关闭		
+9	AXRadioButton		HyperFrames Studio	0	
+10	AXButton		关闭		
+8	AXGroup				
+7	AXButton		新标签页		
+7	AXGroup				
+6	AXGroup				
+2	AXButton				
+2	AXButton				
+3	AXGroup				
+4	AXGroup				
+2	AXButton				

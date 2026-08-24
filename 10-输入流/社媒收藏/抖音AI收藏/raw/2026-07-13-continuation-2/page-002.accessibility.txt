@@ -1,0 +1,247 @@
+Window: "@守望的抖音 - 抖音", App: Google Chrome.
+0 标准窗口 @守望的抖音 - 抖音 - Google Chrome, URL: douyin.com/user/self?from_tab_name=main&showSubTab=video&showTab=favorite_collection, Secondary Actions: Raise
+	1 container (settable, string) @守望的抖音 - 抖音 - Google Chrome, URL: douyin.com/user/self?from_tab_name=main&showSubTab=video&showTab=favorite_collection
+		2 container (settable, string)
+			3 工具栏 (settable, string)
+				4 按钮 (settable, string) 返回
+				5 按钮 (disabled, settable, string) 前进
+				6 按钮 (settable, string) 重新加载
+				7 container (settable, string)
+					8 弹出式按钮 (settable, string) 查看网站信息
+					9 文本栏 (settable, string) Description: 地址和搜索栏, Value: douyin.com/user/self?from_tab_name=main&showSubTab=video&showTab=favorite_collection, Placeholder: 在 Google 中搜索，或输入网址
+					10 按钮 (settable, string) 安装“抖音”
+					11 按钮 (settable, string) 为此标签页添加书签
+				12 container (settable, string)
+					13 弹出式按钮 (settable, string) AdBlock - 拦截整个网络的广告
+可以访问此网站
+					14 弹出式按钮 (settable, string) 身份验证器
+想要访问此网站
+					15 弹出式按钮 (settable, string) 沙拉翻译：聚合词典 、划词翻译、沉浸式(对照)翻译 & 查词
+可以访问此网站
+					16 弹出式按钮 (settable, string) 扩展程序
+				17 按钮 (settable, string) ping
+				18 弹出式按钮 (settable, string) 有新版 Chrome 可用
+			19 工具栏 (settable, string) 书签
+				20 工具栏 (settable, string) 已保存的标签页分组
+					21 按钮 (settable, string) 标签页分组
+				22 分离器 (settable, string) 分隔符
+				23 书签文件夹按钮 (settable, string) work
+				24 书签按钮 (settable, string) SVG 动画 | Coder·码农网
+				25 书签按钮 (settable, string) <basic-shape> - CSS：层叠样式表 | MDN
+				26 书签文件夹按钮 (settable, string) fundebug
+				27 书签按钮 (settable, string) 不死鸟 - 分享为王
+				28 书签按钮 (settable, string) ECharts 3.0源码简要分析1-总体架构 - 前端-后端学习之路 - CSDN博客
+				29 书签按钮 (settable, string) SweetAlert 中文文档
+				30 书签按钮 (settable, string) 搜云盘
+				31 书签文件夹按钮 (settable, string) 问答社区
+				32 书签文件夹按钮 (settable, string) 学习课堂
+				33 弹出式按钮 (settable, string) 包含隐藏书签的菜单
+				34 书签文件夹按钮 (settable, string) 所有书签
+				35 分离器 (settable, string) 分隔符
+			36 container (settable, string)
+				37 HTML 内容 @守望的抖音 - 抖音, URL: douyin.com/user/self?from_tab_name=main&showSubTab=video&showTab=favorite_collection
+					38 container
+						39 按钮 开启读屏标签
+						40 文本 读屏标签已关闭
+						41 container
+							42 link douyin.com/jingxuan
+							43 container
+								44 container
+									45 link Description: 精选, Value: douyin.com/jingxuan?from_nav=1
+									46 link Description: 推荐, Value: douyin.com/?recommend=1&from_nav=1
+									47 link Description: 搜索, Value: douyin.com/aisearch?from_nav=1
+									48 link Description: 关注 65, Value: douyin.com/follow?from_nav=1
+									49 link Description: 朋友 1, Value: douyin.com/friend?from_nav=1
+									50 link Description: 我的, Value: douyin.com/user/self?from_nav=1
+									51 link Description: 直播, Value: live.douyin.com/?from_nav=1
+									52 link Description: 放映厅, Value: douyin.com/vs?from_nav=1
+									53 link Description: 短剧, Value: douyin.com/series?from_nav=1
+									54 container
+										55 未加标签的图片 要获取缺失的图片说明，请打开上下文菜单。
+										56 未加标签的图片 /pLghpeAKra17jyXmwUAAAAAElFTkSuQmCC
+										57 文本 下载抖音精选
+									58 container
+										59 图像
+										60 图像
+									61 container
+										62 文本 2026 © 抖音
+										63 link Description: 京ICP备16016397号-3, Value: beian.miit.gov.cn/
+										64 link Description: icon 京公网安备 11000002002046号, Value: beian.gov.cn/portal/registerSystemInfo
+										65 text 广播电视节目制作经营许可证 （京）字第11313号 增值电信业务经营许可证 京B2-20170846 网络文化经营许可证 京网文〔2025〕0181-061号 互联网宗教信息服务许可证 京（2025）0000017 药品医疗器械网络信息服务备案 （京）网药械信息备字（2023）第00570号 互联网新闻信息服务许可证 11220230001
+										66 link Description: 网络谣言曝光台, Value: piyao.org.cn/yybgt/index.htm
+										67 link Description: 网上有害信息举报, Value: 12377.cn/
+										68 text 违法和不良信息举报 400-140-2108 feedback@douyin.com 算法推荐专项举报 sfjubao@bytedance.com 体育饭圈专项举报 tyfq@bytedance.com
+										69 link Description: 广告投放, Value: oceanengine.com/resource/douyin
+										70 link Description: 用户服务协议, Value: douyin.com/agreements/?id=6773906068725565448
+										71 link Description: 隐私政策, Value: douyin.com/agreements/?id=6773901168964798477
+										72 link Description: 账号找回, Value: douyin.com/recovery_account/
+										73 link Description: 联系我们, Value: douyin.com/aboutus/
+										74 link Description: 加入我们, Value: douyin.com/aboutus/
+										75 link Description: 营业执照, Value: douyin.com/business_license/
+										76 link Description: 友情链接, Value: douyin.com/friend_links
+										77 link Description: 站点地图, Value: douyin.com/htmlmap/hotauthor_0_1
+										78 link Description: 下载抖音, Value: douyin.com/downloadpage/pc
+										79 link Description: 抖音电商, Value: mix.jinritemai.com/falcon/mix_page/index.html
+							80 container
+								81 container
+									82 container
+										83 文本栏 (settable, string) 搜索你感兴趣的内容
+										84 按钮 搜索
+											85 图像
+											86 文本 搜索
+									87 container
+										88 container
+											89 图像
+											90 文本 充钻石
+										91 link Description: 客户端, Value: douyin.com/download/pc/obj/douyin-pc-web/douyin-pc-client/7044145585217083655/releases/412317310/8.1.1/darwin-universal/douyin-v8.1.1-darwin-universal.dmg
+										92 container
+											93 图像
+											94 文本 壁纸
+										95 内容列表
+											96 container
+												97 图像
+												98 文本 通知
+										99 内容列表
+											100 container
+												101 文本 消息
+												102 文本 9
+										103 container
+											104 图像
+											105 文本 投稿
+										106 link douyin.com/user/self
+							107 container
+								108 container
+									109 图像 @守望头像
+									110 标题 @守望, Value: 1
+										111 文本 @守望
+									112 图像
+									113 文本 关注
+									114 文本 1404
+									115 container
+										116 图像
+										117 text 36 人正在直播
+									118 文本 粉丝
+									119 文本 95
+									120 text 获赞 86 抖音号： 183664272
+									121 图像
+									122 text 男 要不先发100个看看 怎么剪辑
+									123 container
+										124 文本 保存登录信息
+									125 文本 下载电脑客户端，桌面快捷访问
+									126 link Description: 下载, Value: douyin.com/download/pc/obj/douyin-pc-web/douyin-pc-client/7044145585217083655/releases/412317310/8.1.1/darwin-universal/douyin-v8.1.1-darwin-universal.dmg
+								127 container
+									128 container
+										129 标签组
+											130 标签 (settable, integer) 作品 9, Value: 0
+												131 标题 作品 9, Value: 2
+													132 text 作品 9
+											133 标签 (settable, integer) 推荐, Value: 0
+											134 标签 (settable, integer) 喜欢, Value: 0
+											135 标签 (selected) 收藏, Value: 1
+											136 标签 (settable, integer) 观看历史, Value: 0
+											137 标签 (settable, integer) 稍后再看, Value: 0
+											138 标签 (settable, integer) 我的预约, Value: 0
+										139 container 收藏
+										140 文本 批量管理
+									141 container
+										142 标签组
+											143 标签 (settable, integer) 收藏夹, Value: 0
+											144 标签 (selected) 视频, Value: 1
+											145 标签 (settable, integer) 音乐, Value: 0
+											146 标签 (settable, integer) 合集, Value: 0
+											147 标签 (settable, integer) 短剧, Value: 0
+										148 container 视频
+										149 container
+											150 图像
+											151 文本 搜索你收藏的作品
+										152 文本栏 (settable, string) 搜索你收藏的作品
+									153 内容列表
+										154 link Value: douyin.com/video/7660911070847962394, Description: 复利掘金：普通人换个思维拿下央企5000工资 。#财富自由 #财富思维 #央企 #复利思维 #攒股收息 2686 普通人换个思维拿下央企5000工资 。#财富自由 #财富思维 #央企 #复利思维 #攒股收息
+										155 link Value: douyin.com/video/7640771656788544814, Description: 丫丫火一谷一心米酒专卖店：不允许还有人没喝过这三款神仙气泡米酒#爱自己的一百种方式#荔枝气泡米酒#白桃气泡米酒#桂花气泡米酒 5232 不允许还有人没喝过这三款神仙气泡米酒#爱自己的一百种方式#荔枝气泡米酒#白桃气泡米酒#桂花气泡米酒
+										156 link Value: douyin.com/video/7661118596591911409, Description: 飞梦：全网爆火蜗轮增压 好多人上条视频质疑是AI合成，今天再演示一遍给大家看，看完你们就懂了！#真蜗牛 #涡轮增压 1.9万 全网爆火蜗轮增压 好多人上条视频质疑是AI合成，今天再演示一遍给大家看，看完你们就懂了！#真蜗牛 #涡轮增压
+										157 link Value: douyin.com/video/7660226363554598144, Description: 择路漫谈：真时慕觉 弱时慕强，强时慕真，真时慕觉，觉时慕空，空，不是什么都没有。而是万物经过心头，却不再留下枷锁。所以，人的成长，其实就是一个不断校准内心所向的过程。弱的时候，追求力量。强的时候，追求规律。看见规律以后，追求觉悟。真正觉悟以后，追求留白。这就是道家说的归根。#道德经 #庄子 #认知 #坐忘 #精选计划 12.6万 真时慕觉 弱时慕强，强时慕真，真时慕觉，觉时慕空，空，不是什么都没有。而是万物经过心头，却不再留下枷锁。所以，人的成长，其实就是一个不断校准内心所向的过程。弱的时候，追求力量。强的时候，追求规律。看见规律以后，追求觉悟。真正觉悟以后，追求留白。这就是道家说的归根。#道德经 #庄子 #认知 #坐忘 #精选计划
+										158 link Value: douyin.com/video/7660514647171162874, Description: 小冯不意why：一周没开电脑，项目天天在跑？ ai时代随时随地都能开启项目+落地灵感的最佳实践#vibecoding大赏 #ai新星计划 @抖音科技 1249 一周没开电脑，项目天天在跑？ ai时代随时随地都能开启项目+落地灵感的最佳实践#vibecoding大赏 #ai新星计划 @抖音科技
+										159 link Value: douyin.com/video/7661453329196715306, Description: 大模型观察员Andy：做了3个AI智能体后，我悟出了这套定制方法论 智能体≠大语言模型！这期视频从概念到实操，4步教你定制专属AI智能体。附3个真实案例👇 #智能体 #AI智能体 #Agent #AI定制 #智能体定制 279 做了3个AI智能体后，我悟出了这套定制方法论 智能体≠大语言模型！这期视频从概念到实操，4步教你定制专属AI智能体。附3个真实案例👇 #智能体 #AI智能体 #Agent #AI定制 #智能体定制
+										160 link Value: douyin.com/video/7655965422576195560, Description: 大岳的碎碎念：定投纳斯达克100，真的会亏成0吗？ #纳斯达克 #财富思维 #富人思维 #负债 #房子 8.5万 定投纳斯达克100，真的会亏成0吗？ #纳斯达克 #财富思维 #富人思维 #负债 #房子
+										161 link Value: douyin.com/video/7661464978440836787, Description: AIGC大狮：强到可怕‼️4句AI指令！高效掌握任何领域知识 #ai #ai提示词 #高效学习 #效率神器 #自媒体工具 204 强到可怕‼️4句AI指令！高效掌握任何领域知识 #ai #ai提示词 #高效学习 #效率神器 #自媒体工具
+										162 link Value: douyin.com/note/7659423797208010011, Description: 子杰Kyro：Codex新出了个Handoff功能 Codex 前段时间更新了一个功能，叫Handoff。 这个功能我觉得挺关键。 简单说，它可以把一个正在运行的 会话Thread，从本机切到已经连接好的远程主机继续跑。 而且转过去的不只是聊天记录。 Thread 和 Git State 会一起迁移，目标主机会创建或复用 Worktree，然后从原来的状态继续执行。 所以它解决的不是远程桌面问题，而是： 一个 AI Coding 任务做到一半，能不能换一台机器继续干？ 这个方向我觉得非常对！ 因为真实使用 AI Agent 写代码，经常会遇到这种场景： 白天我在 MacBook 上跑 Agent，读项目、改代码、跑测试、修 Bug。 但我要下班了。 MacBook 要合盖带走。 电脑一合盖，节点就停了，AI 也停了。 这显然不符合 AI Agent 长时间持续工作的使用方式。 所以我们在Vibemux做了一个功能，叫一键转接。 它解决的不是单个 Thread 如何切 Host。 而是： 当当前电脑马上不可用时，能不能把整个 AI 任务迁移到另一台机器，并自动继续执行。 比如我在公司用 MacBook Pro 
+										163 link Value: douyin.com/video/7660806872684924160, Description: 碳基生物退役指南：GPT-5.6 全家桶上线！ Sol、Terra、Luna 三款模型齐发，Codex 合并谢幕！最强模型 Sol 实战表现逆天：一键生成 CS 3D FPS 游戏，有声音、有道具、有生命系统、有任务体系，一口气跑出来的不是演示，是真正能玩的游戏！ #GPT #codex #GPT5 #大模型 1882 GPT-5.6 全家桶上线！ Sol、Terra、Luna 三款模型齐发，Codex 合并谢幕！最强模型 Sol 实战表现逆天：一键生成 CS 3D FPS 游戏，有声音、有道具、有生命系统、有任务体系，一口气跑出来的不是演示，是真正能玩的游戏！ #GPT #codex #GPT5 #大模型
+										164 link Value: douyin.com/video/7660526630506351922, Description: 赛博猪老师：这个Skill太权威了，不管什么行业 都能做出顶级动效网页！ #vibecoding大赏 #codex #AI网站 #AI 413 这个Skill太权威了，不管什么行业 都能做出顶级动效网页！ #vibecoding大赏 #codex #AI网站 #AI
+										165 link Value: douyin.com/note/7659258629581014003, Description: yibolas｜AI研习社：Codex+Obsidian全自动知识库。知识库搭建#Codex #obsidian #知识库 #openai #ai工具选型指南 1131 Codex+Obsidian全自动知识库。知识库搭建#Codex #obsidian #知识库 #openai #ai工具选型指南
+										166 link Value: douyin.com/video/7644559097057456101, Description: 大陆陆爱复盘：因为他们更早就去找了那件喜欢且复利的事儿！ 昨天写了一篇关于人生赚💰分两个阶段，今天对于为什么要这样分类，有了更加深刻的理解。人生最贵的不是💰，而是复利开始的太晚。#复利#人生复利#复盘#顿悟#个人成长 6.8万 因为他们更早就去找了那件喜欢且复利的事儿！ 昨天写了一篇关于人生赚💰分两个阶段，今天对于为什么要这样分类，有了更加深刻的理解。人生最贵的不是💰，而是复利开始的太晚。#复利#人生复利#复盘#顿悟#个人成长
+										167 link Value: douyin.com/video/7660446876664433530, Description: 镜澈AI落地：AI越用越贵？我靠这招省85%token💰 做AI Agent的朋友估计都有这体会吧？ 刚开始用的时候特顺，成本也低。可后来功能越堆越多、工具越接越杂，突然发现——不仅变慢了，还越来越烧钱！ 一个简单问题，Agent得先加载一堆技能、读一堆文档、纠结半天，才慢吞吞开始干活。时间浪费不说，token也白烧了，这些开销和最终结果几乎没关系… 怎么破？核心就四个字：精准路由。我自己用的是四层机制👇 📍第一层：领域快筛 先判断是写文案还是做分析，直接分类 📍第二层：两级匹配 关键词命中直接走流程，没命中就用语义匹配 📍第三层：置信度分级 高置信度直接干，低置信度先把问题问清楚 📍第四层：任务指纹 高频任务直接套用标准流程 优化完效果真的惊到我！前置判断时间减了90%，token消耗省了85%。 其实AI Agent的优化，很多时候不是模型不够强，而是架构没搭巧。路由做好了，不用换模型、不用加算力，体验直接上一个台阶～ 想知道具体怎么落地的，评论区打"路由"。#AI #人工智能 #token #效率工具#ai落地 283 AI越用越贵？我靠这招省85%token💰 做AI Agent的朋友估
+										168 link Description: 何火火：生辰八字算命是 迷信吗？看完就知道了#八字算命#国学智慧#传统文化 9.5万 生辰八字算命是 迷信吗？看完就知道了#八字算命#国学智慧#传统文化, Value: douyin.com/video/7640180439814081842
+										169 link Description: 羊羊🐑：买西瓜的正确方法…#老板 #撒娇 3.2万 买西瓜的正确方法…#老板 #撒娇, Value: douyin.com/video/7660100183876219515
+										170 link Value: douyin.com/video/7660022301278896115, Description: MING's Agent舱：之前分享过loop engineering，最近claude把他们对loop的定义，以及如何在claude code中使用也分享出来了。顺着"触发"和"停止"这两个维度,官方把 loop 分成四类:对话轮次、目标驱动、定时触发,还有主动型。越往后,你交给 claude code的职责就越多。设计自己的loop时可以问自己三个问题:我能写清楚检查步骤吗? 我能明确定义完成标准吗? 这个任务会定时、或按事件触发吗? 从简单的 loop 开始尝试, 过程中慢慢迭代各个环节的标准。 #loopengineering #vibecoding #claudecode #agent 39 之前分享过loop engineering，最近claude把他们对loop的定义，以及如何在claude code中使用也分享出来了。顺着"触发"和"停止"这两个维度,官方把 loop 分成四类:对话轮次、目标驱动、定时触发,还有主动型。越往后,你交给 claude code的职责就越多。设计自己的loop时可以问自己三个问题:我能写清楚检查步骤吗? 我能明确定义完成标准吗? 这个任务会定时、或按事件触发吗?
+										171 link Description: 白同學不白：写歌全靠“哼哼”，竟然创作出这么多爆款神曲，难道他真有系统？#高进 #音乐 #音乐天才 31.2万 写歌全靠“哼哼”，竟然创作出这么多爆款神曲，难道他真有系统？#高进 #音乐 #音乐天才, Value: douyin.com/video/7659736852211043619
+										172 link Value: douyin.com/video/7660065026372670836, Description: 阿泽在做agent：ai能让你提效的地方到底在哪里？ #ai让我提前下班 #ai项目落地 #智能体搭建 #agent #量化 140 ai能让你提效的地方到底在哪里？ #ai让我提前下班 #ai项目落地 #智能体搭建 #agent #量化
+										173 link Description: 何火火：有谁能懂当年沁园春雪横空出世的感觉吗#沁园春雪#伟人智慧 #历史故事 8.6万 有谁能懂当年沁园春雪横空出世的感觉吗#沁园春雪#伟人智慧 #历史故事, Value: douyin.com/video/7659881642831400219
+										174 link Value: douyin.com/video/7659395809514933531, Description: 金哲AI：50个分类1500个免费接口，做副业的全来抄作业 44万人收藏，1500+免费接口，天气/翻译/图片/AI全有，做工具做副业直接用，不花钱。 #AI工具 #副业 #自动化 #开源 #免费接口 779 50个分类1500个免费接口，做副业的全来抄作业 44万人收藏，1500+免费接口，天气/翻译/图片/AI全有，做工具做副业直接用，不花钱。 #AI工具 #副业 #自动化 #开源 #免费接口
+										175 link Description: 椿萱茂里的春天于20211009发布的作品 121.7万, Value: douyin.com/video/7655252619578001262
+										176 link Description: 涵姐爱分享：#我的大疆pocket4p首拍 40岁已不能高强度劳累 6674 #我的大疆pocket4p首拍 40岁已不能高强度劳累, Value: douyin.com/note/7659687447148307578
+										177 link Value: douyin.com/video/7660003772609072818, Description: 西瓜同学🍉：「VibeCoding大赏」一个Skill让AI做出高级UI 我最近做了一个自己的UI skill，目标很直接，就是让它更懂 UI设计师真正要的效果。 它不是单纯拼现成能力，而是在参考 taste 和 impeccale 这些优秀思路之后，又加入了我自己做的一套优化。 所以你现在视频里看到的这些网页动效、页面质感和整体氛围，基本都是用这一个 skill 做出来的。 对我来说，好用的 skill 不是功能堆得多，而是能不能更稳定地帮设计师把效果做出来。 #codex #skills #vibecoding #ui设计 #技术分享 7448 「VibeCoding大赏」一个Skill让AI做出高级UI 我最近做了一个自己的UI skill，目标很直接，就是让它更懂 UI设计师真正要的效果。 它不是单纯拼现成能力，而是在参考 taste 和 impeccale 这些优秀思路之后，又加入了我自己做的一套优化。 所以你现在视频里看到的这些网页动效、页面质感和整体氛围，基本都是用这一个 skill 做出来的。 对我来说，好用的 skill 不是功能堆得多，而是能不能更稳定地帮设计师把效果做出来。 #code
+										178 link Value: douyin.com/video/7659690088397425946, Description: 校园青春旋律：北京大学2026年研究生毕业典礼 | 青春歌曲联唱 《明天你好》是期许，《最初的梦想》是初心，《再见》是勇气，《凤凰花开的路口》是归期。四首歌，唱尽相遇、成长、告别与守望。祝2026届毕业生，前程似锦，一生芳华。#2026毕业季 #北大毕业典礼 #明天你好 #最初的梦想 #这几年是我轰轰烈烈的青春 热点 5.2万 北京大学2026年研究生毕业典礼 | 青春歌曲联唱 《明天你好》是期许，《最初的梦想》是初心，《再见》是勇气，《凤凰花开的路口》是归期。四首歌，唱尽相遇、成长、告别与守望。祝2026届毕业生，前程似锦，一生芳华。#2026毕业季 #北大毕业典礼 #明天你好 #最初的梦想 #这几年是我轰轰烈烈的青春
+										179 link Value: douyin.com/video/7659761678687368889, Description: AI企业研习社：一起学AI,最火的AI工具codex！#开发者工具 #ai编程学习 #ai视频处理工具 #codex教程 43 一起学AI,最火的AI工具codex！#开发者工具 #ai编程学习 #ai视频处理工具 #codex教程
+										180 link Value: douyin.com/video/7659429779623464232, Description: 阿森编程日记（AI自动化）：让ClaudeCode替你打工，这5个Skill配齐 就是一家 AI 公司！只装一个工具没用，关键是把调研员、提示词翻译师、47 个 AI 员工、总经理和长期记忆大脑配齐。#skill #claudecode #agent #AI工具 #ai工作流 1625 让ClaudeCode替你打工，这5个Skill配齐 就是一家 AI 公司！只装一个工具没用，关键是把调研员、提示词翻译师、47 个 AI 员工、总经理和长期记忆大脑配齐。#skill #claudecode #agent #AI工具 #ai工作流
+										181 link Value: douyin.com/note/7657943953719028731, Description: 游戏不打了转行做Ai：在你不了解项目的时候，给codex一份好的提示词能帮助你节省时间 #GPT #claude #fable5 #提示词 9358 在你不了解项目的时候，给codex一份好的提示词能帮助你节省时间 #GPT #claude #fable5 #提示词
+								182 container
+									183 link Description: 广告投放, Value: oceanengine.com/resource/douyin
+									184 link Description: 用户服务协议, Value: douyin.com/agreements/?id=6773906068725565448
+									185 link Description: 隐私政策, Value: douyin.com/agreements/?id=6773901168964798477
+									186 link Description: 账号找回, Value: douyin.com/recovery_account/
+									187 link Description: 联系我们, Value: douyin.com/aboutus/
+									188 link Description: 加入我们, Value: douyin.com/aboutus/
+									189 link Description: 营业执照, Value: douyin.com/business_license/
+									190 link Description: 友情链接, Value: douyin.com/friend_links
+									191 link Description: 站点地图, Value: douyin.com/htmlmap/hotauthor_0_1
+									192 link Description: 下载抖音, Value: douyin.com/downloadpage/pc
+									193 link Description: 抖音电商, Value: mix.jinritemai.com/falcon/mix_page/index.html
+									194 link Description: 网络谣言曝光台 ｜, Value: piyao.org.cn/yybgt/index.htm
+									195 link Description: 网上有害信息举报, Value: 12377.cn/
+									196 文本 ｜ 违法和不良信息举报：400-140-2108 feedback@douyin.com ｜ 算法推荐专项举报：sfjubao@bytedance.com | 体育饭圈专项举报：tyfq@bytedance.com
+									197 link Description: 京ICP备16016397号-3, Value: beian.miit.gov.cn/
+									198 文本 ｜ 广播电视节目制作经营许可证 （京）字第11313号
+									199 文本 ｜ 增值电信业务经营许可证 京B2-20170846
+									200 文本 ｜ 网络文化经营许可证 京网文〔2025〕0181-061号 ｜
+									201 container
+										202 未加标签的图片 icon
+										203 link Description: 京公网安备 11000002002046号, Value: beian.gov.cn/portal/registerSystemInfo
+									204 文本 ｜ 互联网宗教信息服务许可证 京（2025）0000017
+									205 文本 热门：
+									206 link Description: 抖音美食推荐, Value: douyin.com/jingxuan/food
+									207 link Description: 抖音官网, Value: douyin.com/jingxuan
+									208 link Description: 杭州孪生画室, Value: douyin.com/user/MS4wLjABAAAABYcdpq_cNzmU1xJbeFRFLFHMcy6Fzzk3Hh3aEUFyTWU
+									209 link Description: 枣庄机电工业学校（原峄城区职业中专），今年没有3+2连读招生计划，峄城区的学生应该如何报考？#枣庄教育 #枣庄中考 #峄城区职业中专 #枣庄机电工业学校 #枣庄中专, Value: douyin.com/video/7660869552930696939
+									210 link Description: 苹果高考寓意, Value: douyin.com/topic/7509886725926406155
+									211 link Description: 物理高考高频考点, Value: douyin.com/shipin/7509894900348045339
+									212 link Description: 唐山2025高考成绩, Value: douyin.com/search/%E5%94%90%E5%B1%B12025%E9%AB%98%E8%80%83%E6%88%90%E7%BB%A9
+									213 link Description: 塞尔维亚青年为何偏爱中国, Value: douyin.com/video/7644476870523718939?source=Baiduspider
+									214 link Description: 高分子材料系列，注塑模具设计评审#老杨秀模具 #老杨秀塑料#抖音塑料课堂, Value: douyin.com/video/7288459912986889530?source=Baiduspider
+									215 link douyin.com/video/7288637064659078439?source=Baiduspider
+									216 link Description: 一直以为是智商税，没想到这么有用，那我拼命摁住她的手脚时算什么算什么#母婴好物 #宝妈分享 #宝宝好物推荐, Value: douyin.com/video/7586908964424535339?source=Baiduspider-sdc
+									217 link Description: 摩托罗拉1984-2020上集 Hello moto 是不是满满的回忆 用过的留下机型#经典手机 #摩托罗拉, Value: douyin.com/video/6961554933900496164?source=Baiduspider
+									218 link Description: 有套路，有章法的去实现某个目的，成功的概率会提升百分之80。#抖音运营 #短视频创业 #副业指南 #婚恋相亲, Value: douyin.com/video/7083397148682865956?source=Baiduspider
+									219 link Description: 当我在减肥过程中第一次出现情绪崩溃...#减肥 #掉秤 #减肥崩溃 #蜕变过程 #大码身材, Value: douyin.com/video/7407032138928803126?source=Baiduspider-sdc
+					220 按钮
+			221 标签组 (settable, string)
+				222 弹出式按钮 (settable, string) 标签页搜索
+				223 container (settable, string)
+					224 标签 (selected, settable, boolean) Description: @守望的抖音 - 抖音, Value: on
+						225 按钮 (settable, string) 关闭
+				226 按钮 (settable, string) 新标签页
+	227 关闭按钮
+	228 全屏幕按钮 Help: 此按钮也可以执行缩放窗口的操作, Secondary Actions: 缩放窗口
+	229 最小化按钮
+230 menu bar
+	231 Chrome
+	232 文件
+	233 编辑
+	234 显示
+	235 历史记录
+	236 书签
+	237 个人资料
+	238 标签页
+	239 窗口
+	240 帮助
+
+The focused UI element is 144 标签 (selected) 视频, Value: 1

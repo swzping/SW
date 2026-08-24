@@ -1,0 +1,306 @@
+Window: "@守望的抖音 - 抖音", App: Google Chrome.
+0 标准窗口 @守望的抖音 - 抖音 - Google Chrome, URL: …, Secondary Actions: Raise
+	1 container (settable, string) @守望的抖音 - 抖音 - Google Chrome, URL: …
+		2 container (settable, string)
+			3 工具栏 (settable, string)
+				4 按钮 (settable, string) 返回
+				5 按钮 (disabled, settable, string) 前进
+				6 按钮 (settable, string) 重新加载
+				7 container (settable, string)
+					8 弹出式按钮 (settable, string) 查看网站信息
+					9 文本栏 (settable, string) Description: 地址和搜索栏, Value: douyin.com/user/self?from_tab_name=main&showSubTab=video&showTab=favorite_collection, Placeholder: 在 Google 中搜索，或输入网址
+					10 按钮 (settable, string) 安装“抖音”
+					11 按钮 (settable, string) 为此标签页添加书签
+				12 container (settable, string)
+					13 弹出式按钮 (settable, string) AdBlock - 拦截整个网络的广告
+可以访问此网站
+					14 弹出式按钮 (settable, string) 身份验证器
+想要访问此网站
+					15 弹出式按钮 (settable, string) 沙拉翻译：聚合词典 、划词翻译、沉浸式(对照)翻译 & 查词
+可以访问此网站
+					16 弹出式按钮 (settable, string) 扩展程序
+				17 按钮 (settable, string) ping
+				18 弹出式按钮 (settable, string) 有新版 Chrome 可用
+			19 工具栏 (settable, string) 书签
+				20 工具栏 (settable, string) 已保存的标签页分组
+					21 按钮 (settable, string) 标签页分组
+				22 分离器 (settable, string) 分隔符
+				23 书签文件夹按钮 (settable, string) work
+				24 书签按钮 (settable, string) SVG 动画 | Coder·码农网
+				25 书签按钮 (settable, string) <basic-shape> - CSS：层叠样式表 | MDN
+				26 书签文件夹按钮 (settable, string) fundebug
+				27 书签按钮 (settable, string) 不死鸟 - 分享为王
+				28 书签按钮 (settable, string) ECharts 3.0源码简要分析1-总体架构 - 前端-后端学习之路 - CSDN博客
+				29 书签按钮 (settable, string) SweetAlert 中文文档
+				30 书签按钮 (settable, string) 搜云盘
+				31 书签文件夹按钮 (settable, string) 问答社区
+				32 书签文件夹按钮 (settable, string) 学习课堂
+				33 弹出式按钮 (settable, string) 包含隐藏书签的菜单
+				34 书签文件夹按钮 (settable, string) 所有书签
+				35 分离器 (settable, string) 分隔符
+			36 container (settable, string)
+				37 HTML 内容 @守望的抖音 - 抖音, URL: …
+					38 container
+						39 按钮 开启读屏标签
+						40 文本 读屏标签已关闭
+						41 container
+							42 link douyin.com/jingxuan
+							43 container
+								44 container
+									45 link Description: 精选, Value: douyin.com/jingxuan
+									46 link Description: 推荐, Value: douyin.com/
+									47 link Description: 搜索, Value: douyin.com/aisearch
+									48 link Description: 关注 65, Value: douyin.com/follow
+									49 link Description: 朋友 1, Value: douyin.com/friend
+									50 link Description: 我的, Value: douyin.com/user/self
+									51 link Description: 直播, Value: live.douyin.com/
+									52 link Description: 放映厅, Value: douyin.com/vs
+									53 link Description: 短剧, Value: douyin.com/series
+									54 container
+										55 未加标签的图片 要获取缺失的图片说明，请打开上下文菜单。
+										56 未加标签的图片 /pLghpeAKra17jyXmwUAAAAAElFTkSuQmCC
+										57 文本 下载抖音精选
+									58 container
+										59 图像
+										60 图像
+									61 container
+										62 文本 2026 © 抖音
+										63 link Description: 京ICP备16016397号-3, Value: beian.miit.gov.cn/
+										64 link Description: icon 京公网安备 11000002002046号, Value: beian.gov.cn/portal/registerSystemInfo
+										65 text 广播电视节目制作经营许可证 （京）字第11313号 增值电信业务经营许可证 京B2-20170846 网络文化经营许可证 京网文〔2025〕0181-061号 互联网宗教信息服务许可证 京（2025）0000017 药品医疗器械网络信息服务备案 （京）网药械信息备字（2023）第00570号 互联网新闻信息服务许可证 11220230001
+										66 link Description: 网络谣言曝光台, Value: piyao.org.cn/yybgt/index.htm
+										67 link Description: 网上有害信息举报, Value: 12377.cn/
+										68 text 违法和不良信息举报 400-140-2108 feedback@douyin.com 算法推荐专项举报 sfjubao@bytedance.com 体育饭圈专项举报 tyfq@bytedance.com
+										69 link Description: 广告投放, Value: oceanengine.com/resource/douyin
+										70 link Description: 用户服务协议, Value: douyin.com/agreements/
+										71 link Description: 隐私政策, Value: douyin.com/agreements/
+										72 link Description: 账号找回, Value: douyin.com/recovery_account/
+										73 link Description: 联系我们, Value: douyin.com/aboutus/
+										74 link Description: 加入我们, Value: douyin.com/aboutus/
+										75 link Description: 营业执照, Value: douyin.com/business_license/
+										76 link Description: 友情链接, Value: douyin.com/friend_links
+										77 link Description: 站点地图, Value: douyin.com/htmlmap/hotauthor_0_1
+										78 link Description: 下载抖音, Value: douyin.com/downloadpage/pc
+										79 link Description: 抖音电商, Value: mix.jinritemai.com/falcon/mix_page/index.html
+							80 container
+								81 container
+									82 container
+										83 文本栏 (settable, string) 搜索你感兴趣的内容
+										84 按钮 搜索
+											85 图像
+											86 文本 搜索
+									87 container
+										88 container
+											89 图像
+											90 文本 充钻石
+										91 link Description: 客户端, Value: douyin.com/download/pc/obj/douyin-pc-web/douyin-pc-client/7044145585217083655/r…
+										92 container
+											93 图像
+											94 文本 壁纸
+										95 内容列表
+											96 container
+												97 图像
+												98 文本 通知
+										99 内容列表
+											100 container
+												101 文本 消息
+												102 文本 9
+										103 container
+											104 图像
+											105 文本 投稿
+										106 link douyin.com/user/self
+							107 container
+								108 container
+									109 图像 @守望头像
+									110 标题 @守望, Value: 1
+										111 文本 @守望
+									112 图像
+									113 文本 关注
+									114 文本 1404
+									115 container
+										116 图像
+										117 text 36 人正在直播
+									118 文本 粉丝
+									119 文本 95
+									120 text 获赞 86 抖音号： 183664272
+									121 图像
+									122 text 男 要不先发100个看看 怎么剪辑
+									123 container
+										124 文本 保存登录信息
+									125 文本 下载电脑客户端，桌面快捷访问
+									126 link Description: 下载, Value: douyin.com/download/pc/obj/douyin-pc-web/douyin-pc-client/7044145585217083655/r…
+								127 container
+									128 container
+										129 标签组
+											130 标签 (settable, integer) 作品 9, Value: 0
+												131 标题 作品 9, Value: 2
+													132 text 作品 9
+											133 标签 (settable, integer) 推荐, Value: 0
+											134 标签 (settable, integer) 喜欢, Value: 0
+											135 标签 (selected) 收藏, Value: 1
+											136 标签 (settable, integer) 观看历史, Value: 0
+											137 标签 (settable, integer) 稍后再看, Value: 0
+											138 标签 (settable, integer) 我的预约, Value: 0
+										139 container 收藏
+										140 文本 批量管理
+									141 container
+										142 标签组
+											143 标签 (settable, integer) 收藏夹, Value: 0
+											144 标签 (selected) 视频, Value: 1
+											145 标签 (settable, integer) 音乐, Value: 0
+											146 标签 (settable, integer) 合集, Value: 0
+											147 标签 (settable, integer) 短剧, Value: 0
+										148 container 视频
+										149 container
+											150 图像
+											151 文本 搜索你收藏的作品
+										152 文本栏 (settable, string) 搜索你收藏的作品
+									153 内容列表
+										154 link Value: douyin.com/video/7660911070847962394, Description: 复利掘金：普通人换个思维拿下央企5000工资 。#财富自由 #财富思维 #央企 #复利思维 #攒股收息 2686 普通人换个思维拿下央企5000工资 。#财富自由 #财富思维 #央企 #复利思维 #攒股收息
+										155 link Value: douyin.com/video/7640771656788544814, Description: 丫丫火一谷一心米酒专卖店：不允许还有人没喝过这三款神仙气泡米酒#爱自己的一百种方式#荔枝气泡米酒#白桃气泡米酒#桂花气泡米酒 5232 不允许还有人没喝过这三款神仙气泡米酒#爱自己的一百种方式#荔枝气泡米酒#白桃气泡米酒#桂花气泡米酒
+										156 link Value: douyin.com/video/7661118596591911409, Description: 飞梦：全网爆火蜗轮增压 好多人上条视频质疑是AI合成，今天再演示一遍给大家看，看完你们就懂了！#真蜗牛 #涡轮增压 1.9万 全网爆火蜗轮增压 好多人上条视频质疑是AI合成，今天再演示一遍给大家看，看完你们就懂了！#真蜗牛 #涡轮增压
+										157 link Value: douyin.com/video/7660226363554598144, Description: 择路漫谈：真时慕觉 弱时慕强，强时慕真，真时慕觉，觉时慕空，空，不是什么都没有。而是万物经过心头，却不再留下枷锁。所以，人的成长，其实就是一个不断校准内心所向的过程。弱的时候，追求力量。强的时候，追求规律。看见规律以后，追求觉悟。真正觉悟以后，追求留白。这就是道家说的归根。#道德经 #庄子 #认知 #坐忘 #精选计划 12.6万 真时慕觉 弱时慕强，强时慕真，真时慕觉，觉时慕空，空，不是什么都没有。而是万物经过心头，却不再留下枷锁。所以，人的成长，其实就是一个不断校准内心所向的过程。弱的时候，追求力量。强的时候，追求规律。看见规律以后，追求觉悟。真正觉悟以后，追求留白。这就是道家说的归根。#道德经 #庄子 #认知 #坐忘 #精选计划
+										158 link Value: douyin.com/video/7660514647171162874, Description: 小冯不意why：一周没开电脑，项目天天在跑？ ai时代随时随地都能开启项目+落地灵感的最佳实践#vibecoding大赏 #ai新星计划 @抖音科技 1249 一周没开电脑，项目天天在跑？ ai时代随时随地都能开启项目+落地灵感的最佳实践#vibecoding大赏 #ai新星计划 @抖音科技
+										159 link Value: douyin.com/video/7661453329196715306, Description: 大模型观察员Andy：做了3个AI智能体后，我悟出了这套定制方法论 智能体≠大语言模型！这期视频从概念到实操，4步教你定制专属AI智能体。附3个真实案例👇 #智能体 #AI智能体 #Agent #AI定制 #智能体定制 279 做了3个AI智能体后，我悟出了这套定制方法论 智能体≠大语言模型！这期视频从概念到实操，4步教你定制专属AI智能体。附3个真实案例👇 #智能体 #AI智能体 #Agent #AI定制 #智能体定制
+										160 link Value: douyin.com/video/7655965422576195560, Description: 大岳的碎碎念：定投纳斯达克100，真的会亏成0吗？ #纳斯达克 #财富思维 #富人思维 #负债 #房子 8.5万 定投纳斯达克100，真的会亏成0吗？ #纳斯达克 #财富思维 #富人思维 #负债 #房子
+										161 link Value: douyin.com/video/7661464978440836787, Description: AIGC大狮：强到可怕‼️4句AI指令！高效掌握任何领域知识 #ai #ai提示词 #高效学习 #效率神器 #自媒体工具 204 强到可怕‼️4句AI指令！高效掌握任何领域知识 #ai #ai提示词 #高效学习 #效率神器 #自媒体工具
+										162 link Value: douyin.com/note/7659423797208010011, Description: 子杰Kyro：Codex新出了个Handoff功能 Codex 前段时间更新了一个功能，叫Handoff。 这个功能我觉得挺关键。 简单说，它可以把一个正在运行的 会话Thread，从本机切到已经连接好的远程主机继续跑。 而且转过去的不只是聊天记录。 Thread 和 Git State 会一起迁移，目标主机会创建或复用 Worktree，然后从原来的状态继续执行。 所以它解决的不是远程桌面问题，而是： 一个 AI Coding 任务做到一半，能不能换一台机器继续干？ 这个方向我觉得非常对！ 因为真实使用 AI Agent 写代码，经常会遇到这种场景： 白天我在 MacBook 上跑 Agent，读项目、改代码、跑测试、修 Bug。 但我要下班了。 MacBook 要合盖带走。 电脑一合盖，节点就停了，AI 也停了。 这显然不符合 AI Agent 长时间持续工作的使用方式。 所以我们在Vibemux做了一个功能，叫一键转接。 它解决的不是单个 Thread 如何切 Host。 而是： 当当前电脑马上不可用时，能不能把整个 AI 任务迁移到另一台机器，并自动继续执行。 比如我在公司用 MacBook Pro 
+										163 link Value: douyin.com/video/7660806872684924160, Description: 碳基生物退役指南：GPT-5.6 全家桶上线！ Sol、Terra、Luna 三款模型齐发，Codex 合并谢幕！最强模型 Sol 实战表现逆天：一键生成 CS 3D FPS 游戏，有声音、有道具、有生命系统、有任务体系，一口气跑出来的不是演示，是真正能玩的游戏！ #GPT #codex #GPT5 #大模型 1882 GPT-5.6 全家桶上线！ Sol、Terra、Luna 三款模型齐发，Codex 合并谢幕！最强模型 Sol 实战表现逆天：一键生成 CS 3D FPS 游戏，有声音、有道具、有生命系统、有任务体系，一口气跑出来的不是演示，是真正能玩的游戏！ #GPT #codex #GPT5 #大模型
+										164 link Value: douyin.com/video/7660526630506351922, Description: 赛博猪老师：这个Skill太权威了，不管什么行业 都能做出顶级动效网页！ #vibecoding大赏 #codex #AI网站 #AI 413 这个Skill太权威了，不管什么行业 都能做出顶级动效网页！ #vibecoding大赏 #codex #AI网站 #AI
+										165 link Value: douyin.com/note/7659258629581014003, Description: yibolas｜AI研习社：Codex+Obsidian全自动知识库。知识库搭建#Codex #obsidian #知识库 #openai #ai工具选型指南 1131 Codex+Obsidian全自动知识库。知识库搭建#Codex #obsidian #知识库 #openai #ai工具选型指南
+										166 link Value: douyin.com/video/7644559097057456101, Description: 大陆陆爱复盘：因为他们更早就去找了那件喜欢且复利的事儿！ 昨天写了一篇关于人生赚💰分两个阶段，今天对于为什么要这样分类，有了更加深刻的理解。人生最贵的不是💰，而是复利开始的太晚。#复利#人生复利#复盘#顿悟#个人成长 6.8万 因为他们更早就去找了那件喜欢且复利的事儿！ 昨天写了一篇关于人生赚💰分两个阶段，今天对于为什么要这样分类，有了更加深刻的理解。人生最贵的不是💰，而是复利开始的太晚。#复利#人生复利#复盘#顿悟#个人成长
+										167 link Value: douyin.com/video/7660446876664433530, Description: 镜澈AI落地：AI越用越贵？我靠这招省85%token💰 做AI Agent的朋友估计都有这体会吧？ 刚开始用的时候特顺，成本也低。可后来功能越堆越多、工具越接越杂，突然发现——不仅变慢了，还越来越烧钱！ 一个简单问题，Agent得先加载一堆技能、读一堆文档、纠结半天，才慢吞吞开始干活。时间浪费不说，token也白烧了，这些开销和最终结果几乎没关系… 怎么破？核心就四个字：精准路由。我自己用的是四层机制👇 📍第一层：领域快筛 先判断是写文案还是做分析，直接分类 📍第二层：两级匹配 关键词命中直接走流程，没命中就用语义匹配 📍第三层：置信度分级 高置信度直接干，低置信度先把问题问清楚 📍第四层：任务指纹 高频任务直接套用标准流程 优化完效果真的惊到我！前置判断时间减了90%，token消耗省了85%。 其实AI Agent的优化，很多时候不是模型不够强，而是架构没搭巧。路由做好了，不用换模型、不用加算力，体验直接上一个台阶～ 想知道具体怎么落地的，评论区打"路由"。#AI #人工智能 #token #效率工具#ai落地 283 AI越用越贵？我靠这招省85%token💰 做AI Agent的朋友估
+										168 link Description: 何火火：生辰八字算命是 迷信吗？看完就知道了#八字算命#国学智慧#传统文化 9.5万 生辰八字算命是 迷信吗？看完就知道了#八字算命#国学智慧#传统文化, Value: douyin.com/video/7640180439814081842
+										169 link Description: 羊羊🐑：买西瓜的正确方法…#老板 #撒娇 3.2万 买西瓜的正确方法…#老板 #撒娇, Value: douyin.com/video/7660100183876219515
+										170 link Value: douyin.com/video/7660022301278896115, Description: MING's Agent舱：之前分享过loop engineering，最近claude把他们对loop的定义，以及如何在claude code中使用也分享出来了。顺着"触发"和"停止"这两个维度,官方把 loop 分成四类:对话轮次、目标驱动、定时触发,还有主动型。越往后,你交给 claude code的职责就越多。设计自己的loop时可以问自己三个问题:我能写清楚检查步骤吗? 我能明确定义完成标准吗? 这个任务会定时、或按事件触发吗? 从简单的 loop 开始尝试, 过程中慢慢迭代各个环节的标准。 #loopengineering #vibecoding #claudecode #agent 39 之前分享过loop engineering，最近claude把他们对loop的定义，以及如何在claude code中使用也分享出来了。顺着"触发"和"停止"这两个维度,官方把 loop 分成四类:对话轮次、目标驱动、定时触发,还有主动型。越往后,你交给 claude code的职责就越多。设计自己的loop时可以问自己三个问题:我能写清楚检查步骤吗? 我能明确定义完成标准吗? 这个任务会定时、或按事件触发吗?
+										171 link Description: 白同學不白：写歌全靠“哼哼”，竟然创作出这么多爆款神曲，难道他真有系统？#高进 #音乐 #音乐天才 31.2万 写歌全靠“哼哼”，竟然创作出这么多爆款神曲，难道他真有系统？#高进 #音乐 #音乐天才, Value: douyin.com/video/7659736852211043619
+										172 link Value: douyin.com/video/7660065026372670836, Description: 阿泽在做agent：ai能让你提效的地方到底在哪里？ #ai让我提前下班 #ai项目落地 #智能体搭建 #agent #量化 140 ai能让你提效的地方到底在哪里？ #ai让我提前下班 #ai项目落地 #智能体搭建 #agent #量化
+										173 link Description: 何火火：有谁能懂当年沁园春雪横空出世的感觉吗#沁园春雪#伟人智慧 #历史故事 8.6万 有谁能懂当年沁园春雪横空出世的感觉吗#沁园春雪#伟人智慧 #历史故事, Value: douyin.com/video/7659881642831400219
+										174 link Value: douyin.com/video/7659395809514933531, Description: 金哲AI：50个分类1500个免费接口，做副业的全来抄作业 44万人收藏，1500+免费接口，天气/翻译/图片/AI全有，做工具做副业直接用，不花钱。 #AI工具 #副业 #自动化 #开源 #免费接口 779 50个分类1500个免费接口，做副业的全来抄作业 44万人收藏，1500+免费接口，天气/翻译/图片/AI全有，做工具做副业直接用，不花钱。 #AI工具 #副业 #自动化 #开源 #免费接口
+										175 link Description: 椿萱茂里的春天于20211009发布的作品 121.7万, Value: douyin.com/video/7655252619578001262
+										176 link Description: 涵姐爱分享：#我的大疆pocket4p首拍 40岁已不能高强度劳累 6674 #我的大疆pocket4p首拍 40岁已不能高强度劳累, Value: douyin.com/note/7659687447148307578
+										177 link Value: douyin.com/video/7660003772609072818, Description: 西瓜同学🍉：「VibeCoding大赏」一个Skill让AI做出高级UI 我最近做了一个自己的UI skill，目标很直接，就是让它更懂 UI设计师真正要的效果。 它不是单纯拼现成能力，而是在参考 taste 和 impeccale 这些优秀思路之后，又加入了我自己做的一套优化。 所以你现在视频里看到的这些网页动效、页面质感和整体氛围，基本都是用这一个 skill 做出来的。 对我来说，好用的 skill 不是功能堆得多，而是能不能更稳定地帮设计师把效果做出来。 #codex #skills #vibecoding #ui设计 #技术分享 7448 「VibeCoding大赏」一个Skill让AI做出高级UI 我最近做了一个自己的UI skill，目标很直接，就是让它更懂 UI设计师真正要的效果。 它不是单纯拼现成能力，而是在参考 taste 和 impeccale 这些优秀思路之后，又加入了我自己做的一套优化。 所以你现在视频里看到的这些网页动效、页面质感和整体氛围，基本都是用这一个 skill 做出来的。 对我来说，好用的 skill 不是功能堆得多，而是能不能更稳定地帮设计师把效果做出来。 #code
+										178 link Value: douyin.com/video/7659690088397425946, Description: 校园青春旋律：北京大学2026年研究生毕业典礼 | 青春歌曲联唱 《明天你好》是期许，《最初的梦想》是初心，《再见》是勇气，《凤凰花开的路口》是归期。四首歌，唱尽相遇、成长、告别与守望。祝2026届毕业生，前程似锦，一生芳华。#2026毕业季 #北大毕业典礼 #明天你好 #最初的梦想 #这几年是我轰轰烈烈的青春 热点 5.2万 北京大学2026年研究生毕业典礼 | 青春歌曲联唱 《明天你好》是期许，《最初的梦想》是初心，《再见》是勇气，《凤凰花开的路口》是归期。四首歌，唱尽相遇、成长、告别与守望。祝2026届毕业生，前程似锦，一生芳华。#2026毕业季 #北大毕业典礼 #明天你好 #最初的梦想 #这几年是我轰轰烈烈的青春
+										179 link Value: douyin.com/video/7659761678687368889, Description: AI企业研习社：一起学AI,最火的AI工具codex！#开发者工具 #ai编程学习 #ai视频处理工具 #codex教程 43 一起学AI,最火的AI工具codex！#开发者工具 #ai编程学习 #ai视频处理工具 #codex教程
+										180 link Value: douyin.com/video/7659429779623464232, Description: 阿森编程日记（AI自动化）：让ClaudeCode替你打工，这5个Skill配齐 就是一家 AI 公司！只装一个工具没用，关键是把调研员、提示词翻译师、47 个 AI 员工、总经理和长期记忆大脑配齐。#skill #claudecode #agent #AI工具 #ai工作流 1625 让ClaudeCode替你打工，这5个Skill配齐 就是一家 AI 公司！只装一个工具没用，关键是把调研员、提示词翻译师、47 个 AI 员工、总经理和长期记忆大脑配齐。#skill #claudecode #agent #AI工具 #ai工作流
+										181 link Value: douyin.com/note/7657943953719028731, Description: 游戏不打了转行做Ai：在你不了解项目的时候，给codex一份好的提示词能帮助你节省时间 #GPT #claude #fable5 #提示词 9358 在你不了解项目的时候，给codex一份好的提示词能帮助你节省时间 #GPT #claude #fable5 #提示词
+										182 link Value: douyin.com/video/7659727732409929010, Description: 夹心不扎心：飞书＋Codex自动化搞定团队管理#干货分享 #飞书 #Codex #效率神器 #AI工具 152 飞书＋Codex自动化搞定团队管理#干货分享 #飞书 #Codex #效率神器 #AI工具
+										183 link Description: 周老师教育文化：人这一辈子，一定要好好珍惜眼前人 #人生感悟 #励志 #正能量 9.6万 人这一辈子，一定要好好珍惜眼前人 #人生感悟 #励志 #正能量, Value: douyin.com/video/7657952536023878958
+										184 link Value: douyin.com/video/7659584392234873529, Description: 轻舟：晨雾漫过巫峡，江面缓缓舒展。 朝晖洒落峡江，一江碎金漫延向远方，流云依偎绝壁，船只悠悠穿行巫山橘子海。#巫山 #巫山文旅 #长江 #橘子海 #在巫山最三峡 热点 17.1万 晨雾漫过巫峡，江面缓缓舒展。 朝晖洒落峡江，一江碎金漫延向远方，流云依偎绝壁，船只悠悠穿行巫山橘子海。#巫山 #巫山文旅 #长江 #橘子海 #在巫山最三峡
+										185 link Description: 阿泽在做agent：你敢相信吗，你的电脑上住着144个员工！？#ai #ai工具 #ai员工 72 你敢相信吗，你的电脑上住着144个员工！？#ai #ai工具 #ai员工, Value: douyin.com/video/7659662747059129615
+										186 link Value: douyin.com/video/7659673588265438510, Description: AI多巴胺大叔：💡 Codex 额度不够用？试试这个思路。 我一直被一个问题困扰——Codex 5 小时的调用额度，项目一复杂根本不够烧。 后来我换了一个思路：把 Codex 从「程序员」升级成「架构师」。 它只负责拆任务、定方案、审代码。具体执行全部扔给本地的 Hermes + DeepSeek。 结果呢？连续跑了两个多小时，Codex 额度还剩 40%，DeepSeek 总共只花了一块多。 而且 AI 和 AI 之间沟通，比我写提示词还准。 如果你也经常被额度卡脖子，评论区聊聊👇 #AI #Codex #token #技术分享 #认知升级 109 💡 Codex 额度不够用？试试这个思路。 我一直被一个问题困扰——Codex 5 小时的调用额度，项目一复杂根本不够烧。 后来我换了一个思路：把 Codex 从「程序员」升级成「架构师」。 它只负责拆任务、定方案、审代码。具体执行全部扔给本地的 Hermes + DeepSeek。 结果呢？连续跑了两个多小时，Codex 额度还剩 40%，DeepSeek 总共只花了一块多。 而且 AI 和 AI 之间沟通，比我写提示词还准。 如果你也经常被额度卡脖子，
+										187 link Value: douyin.com/note/7657790343055681664, Description: 默拉智能- 不吃早餐：1.用codex输入：cluade code加模型claude-fable-5 2.重启claude code，/model 切换模型claude-fable-5 3.enjoy 307 1.用codex输入：cluade code加模型claude-fable-5 2.重启claude code，/model 切换模型claude-fable-5 3.enjoy
+										188 link Description: 怎杨学AI：把AI拉个群给你打工？这才是普通人用AI的正确姿势 #人工智能 #AI解放双手 147 把AI拉个群给你打工？这才是普通人用AI的正确姿势 #人工智能 #AI解放双手, Value: douyin.com/video/7659351472479456566
+										189 link Value: douyin.com/video/7659323081614592227, Description: 袋鼠帝：开源仓颉.Skill，你现在可以蒸馏任何视频！ 兄弟们，你现在可以把任何视频蒸馏成skills啦🎉('ω')🎉。 比如我基于x起号的诸多信息和视频资料，蒸馏了一个x起号skills，可以用于x冷启动使用。✈️ 大家有需要吗？可以在评论区聊聊～😄 #开源 #ai #拆书 #蒸馏 #玩儿个很新的东西 1.4万 开源仓颉.Skill，你现在可以蒸馏任何视频！ 兄弟们，你现在可以把任何视频蒸馏成skills啦🎉('ω')🎉。 比如我基于x起号的诸多信息和视频资料，蒸馏了一个x起号skills，可以用于x冷启动使用。✈️ 大家有需要吗？可以在评论区聊聊～😄 #开源 #ai #拆书 #蒸馏 #玩儿个很新的东西
+										190 link Description: 阿泽在做agent：我给自己雇了4个AI员工？！#ai #ai工具 #量化 #hermesagent 27 我给自己雇了4个AI员工？！#ai #ai工具 #量化 #hermesagent, Value: douyin.com/video/7659386615529245986
+										191 link Value: douyin.com/video/7659341416912424246, Description: IT小圈：Codex+一人公司 Codex打造一人公司，72K Star神器，一个人+Codex=一人公司 #Paperclip #Codex #一人公司 #vibecoding大赏 #ai新星计划 @抖音科技 579 Codex+一人公司 Codex打造一人公司，72K Star神器，一个人+Codex=一人公司 #Paperclip #Codex #一人公司 #vibecoding大赏 #ai新星计划 @抖音科技
+										192 link Value: douyin.com/video/7658986178046398964, Description: 娟是老三：你要不停的筛选环境，找到契合自己的环境#真实碎碎念 #日常表达 #日常口述 #日常唠嗑感悟 #加油 24.6万 你要不停的筛选环境，找到契合自己的环境#真实碎碎念 #日常表达 #日常口述 #日常唠嗑感悟 #加油
+										193 link Description: Ai糊糊：codex如何连接各类平台？#AI #codex #实战技巧 1401 codex如何连接各类平台？#AI #codex #实战技巧, Value: douyin.com/video/7658249395749604642
+										194 link Value: douyin.com/video/7654162614997552434, Description: 比高：2026年AI智能体的红利，藏在下沉市场里 #AI智能体 #下沉市场 #传统行业 #AI落地 3000 2026年AI智能体的红利，藏在下沉市场里 #AI智能体 #下沉市场 #传统行业 #AI落地
+										195 link Value: douyin.com/note/7659122442284555610, Description: 梵想美学：3 年 ai 设计经验总结，建议收藏。反复观看 不知不觉用AI做设计已经三年了，慢慢想明白一件事：AI真正颠覆的，从来不是某一款工具、某一个模型。 它彻底改变的，是我们做设计、出方案的整个思维和产出方式。 以前做设计，我的思路特别死板，就是一条笔直的线性流程：先分析需求、再构思思路、动手设计、排版收尾，最后整理汇报，一步一步按顺序走完，基本都是一次性落地，尽量少改动。 但接触AI这几年，我的工作模式彻底变了。 现在接手一个项目，我不会急着动手画图。先和AI聊透概念，一点点梳理、打磨整个项目的底层逻辑，把模糊的思路捋顺；再去搜集各类视觉参考，把脑子里虚无的感觉，变成看得见、摸得着的画面； 接着整合所有想法和参考，打磨出精准的提示词，反复生成草图、氛围图。不满意就推翻重来，没有固定次数，直到整体方向慢慢清晰。 等整个方案的框架、风格、逻辑都落地了，我再会借助工具整合内容，规整排版、搭建完整页面，反复调整比例、优化结构，一遍遍地迭代完善。最后再把静态的设计内容，做成动态视频，让作品更有质感。 外人看到的，永远只是最终那张精致的图、一段流畅的视频。 但没人知道，真正的设计工作，都藏在无数次往返调试、推翻重构
+										196 link Value: douyin.com/video/7659188993611720569, Description: 子康兄：Firecrawl免API调用！让数据获取不费吹灰之力！ API调用还在卡壳吗？现在firecrawl直接免API直接调用，把数据喂到你嘴边，零代码抓取，小白也能当数据捕手！#我在抖音聊科技 #ai接管我的日常生活 #codex使用教程 #爬虫 #ai 4729 Firecrawl免API调用！让数据获取不费吹灰之力！ API调用还在卡壳吗？现在firecrawl直接免API直接调用，把数据喂到你嘴边，零代码抓取，小白也能当数据捕手！#我在抖音聊科技 #ai接管我的日常生活 #codex使用教程 #爬虫 #ai
+										197 link Value: douyin.com/video/7657113747370036490, Description: 米凌设计师－胡设计：拒绝千篇一律的网红感，让人一眼心动的意式轻奢风大平层~ #家的样子#意式轻奢#全案设计全案落地#设计案例分享#家居美学 2.0万 拒绝千篇一律的网红感，让人一眼心动的意式轻奢风大平层~ #家的样子#意式轻奢#全案设计全案落地#设计案例分享#家居美学
+										198 link Value: douyin.com/video/7658157267577097526, Description: 词元token经济-牧野：Token 这门生意，正在从草台班子变成公司化赛道 #热点#热点小助手#热点知多少#热点话题 849 Token 这门生意，正在从草台班子变成公司化赛道 #热点#热点小助手#热点知多少#热点话题
+										199 link Value: douyin.com/note/7656833311491447995, Description: 0715C：姐姐带你#健身房ootd #健身 #创作者扶持计划 #vlog十亿流量扶持计划 #健身打卡 1635 姐姐带你#健身房ootd #健身 #创作者扶持计划 #vlog十亿流量扶持计划 #健身打卡
+										200 link Value: douyin.com/video/7637155097838914843, Description: 人间变量：这 5 件让 Claude 替你打工 你只用睡觉 #ClaudeCode #AI编程 #AI工具 #人间变量 #一人公司 5.7万 这 5 件让 Claude 替你打工 你只用睡觉 #ClaudeCode #AI编程 #AI工具 #人间变量 #一人公司
+										201 link Value: douyin.com/video/7638524143663317625, Description: 鲤哥builder：Claude Code必装的3个开源工具，让它好用10倍 #ai #ai工具 #agent #claudecode #编程入门 4385 Claude Code必装的3个开源工具，让它好用10倍 #ai #ai工具 #agent #claudecode #编程入门
+										202 link Value: douyin.com/note/7658320034792060842, Description: 枫弋云笺：这几天整理 AI 记忆文档的时候，我把 MEMORY、SOUL、IDENTITY、HANDOFF 这些文件重新看了一遍。 看着看着，突然意识到一件事： 我做的好像不只是给 AI 准备资料，而是在给一个新模型设计“重新认识我”的路径。 现在很多人认为，给 AI 写一份 MEMORY.md 就够了。 Claude 用 CLAUDE.md，Codex 用 AGENT.md，大家把背景、项目、偏好、工具、写作风格都塞进去。不管换什么模型，都不用从头介绍自己，读一遍文档就行。 但一份真正有用的 AI 记忆，不该只是让模型"知道你"，而是让它"读懂你"。 知道你，是知道你做过什么项目、有哪些目标、喜欢什么表达。读懂你要难一些，它得理解你为什么这样选择，为什么反复卡在某些地方，为什么有些建议你听得进去，有些你本能抗拒。 最开始我也觉得一份 MEMORY.md 够了。把基本信息、项目、目标、偏好、环境都写进去，AI 读一遍就能了解我。后来发现这种了解很浅。 一个模型知道我长期健身、从90kg减到65kg，也知道我在写文章、做视频、搭 Archer。这些信息都重要，但它们只是事实。 事实能让模型知道我做了什么，不能让
+										203 link Value: douyin.com/video/7657917047241854227, Description: 老登学AI：5个自用自媒体SKILL推荐：亲测好用 0基础小白学习AI智能体系列-第二季-第十四集 5个自用自媒体SKILL推荐：亲测好用，各位放心服用 #AI智能体 #codex #AI视频制作 127 5个自用自媒体SKILL推荐：亲测好用 0基础小白学习AI智能体系列-第二季-第十四集 5个自用自媒体SKILL推荐：亲测好用，各位放心服用 #AI智能体 #codex #AI视频制作
+										204 link Value: douyin.com/note/7656710295465362929, Description: Franklin硅谷创业记：codex cluade 用法。有没有人可以讲一下自己工作或者生活的痛点呀，我可以用codex帮忙生成自动化程序#痛点#难点#codex#cluade #人工智能 2017 codex cluade 用法。有没有人可以讲一下自己工作或者生活的痛点呀，我可以用codex帮忙生成自动化程序#痛点#难点#codex#cluade #人工智能
+										205 link Value: douyin.com/note/7643661777967810555, Description: 川页chauny：（已开源）多Agent组成一人公司，让Claudecode，Codex，Openclaw协同工作。Github项目名称HiveWard。之前没有在市面上找到，能真正构建并且能真正调度的多agent组织架构项目，所以自己手搓了一个。还加上了一键生成架构的能力#codex #Claude #openclaw #multiagent #一人公司 #vibecoding大赏 3892 （已开源）多Agent组成一人公司，让Claudecode，Codex，Openclaw协同工作。Github项目名称HiveWard。之前没有在市面上找到，能真正构建并且能真正调度的多agent组织架构项目，所以自己手搓了一个。还加上了一键生成架构的能力#codex #Claude #openclaw #multiagent #一人公司 #vibecoding大赏
+										206 link Value: douyin.com/video/7658010870954483711, Description: 我是一风：一键生成海量优质选题 #ai内容创作 #ai开发助手 #新媒体内容创作 #AI工具 #短视频运营 26 一键生成海量优质选题 #ai内容创作 #ai开发助手 #新媒体内容创作 #AI工具 #短视频运营
+										207 link Value: douyin.com/video/7656405823026924806, Description: AlunTalk：Agent的7种架构，从入门到企业级一次讲清 满世界都在说Agent，但Agent到底是怎么搭出来的？今天把7种主流架构一次讲清楚：单Agent、ReAct、Plan&Execute、多Agent、Router+Skill、Blackboard、Graph/Workflow。从最简单的到企业级的，每种适合什么场景、优缺点是什么，看完就知道自己该选哪个了。建议收藏，早晚用得上。#Agent #AI架构 #大模型 #AIAgent 4206 Agent的7种架构，从入门到企业级一次讲清 满世界都在说Agent，但Agent到底是怎么搭出来的？今天把7种主流架构一次讲清楚：单Agent、ReAct、Plan&Execute、多Agent、Router+Skill、Blackboard、Graph/Workflow。从最简单的到企业级的，每种适合什么场景、优缺点是什么，看完就知道自己该选哪个了。建议收藏，早晚用得上。#Agent #AI架构 #大模型 #AIAgent
+										208 link Value: douyin.com/video/7657756936452017458, Description: 小天fotos：Team Agent 时刻来了，飞书发布多维表格智能体 大神Andrej Karpathy说 Claude Tag是第三代AI交互的范式转变 而我发现飞书多维表格智能体则更落实的把Agent带到了业务里 人人做Agent的浪潮要来了，今天手把手教会大家 #飞书 #飞书多维表格智能体 #ai新星计划 #抖音前沿科技首发计划 #vibecoding大赏 1.2万 Team Agent 时刻来了，飞书发布多维表格智能体 大神Andrej Karpathy说 Claude Tag是第三代AI交互的范式转变 而我发现飞书多维表格智能体则更落实的把Agent带到了业务里 人人做Agent的浪潮要来了，今天手把手教会大家 #飞书 #飞书多维表格智能体 #ai新星计划 #抖音前沿科技首发计划 #vibecoding大赏
+										209 link Description: AIGC 刻意：从亿万光年来找你！ #科幻 #星月神话 #叶凡 #AI 14.5万 从亿万光年来找你！ #科幻 #星月神话 #叶凡 #AI, Value: douyin.com/video/7647140953584700678
+										210 link Value: douyin.com/video/7657921065531821362, Description: 子明的ai生活：如何用codex赚钱，按照这4个方向去做 #AI #企业定制化 #新媒体运营 #超级个体 #codex 112 如何用codex赚钱，按照这4个方向去做 #AI #企业定制化 #新媒体运营 #超级个体 #codex
+										211 link Value: douyin.com/video/7646819479292235017, Description: 金岛主AI提效：从 Claude到Codex ：八大桌面 Agent 锐评 小白能用的 Agent 工具锐评从夯到拉，我们说的这个大家都能用的桌面 Agent 工具，不是那种黑乎乎的编程工具。 这次入选的选手有 8 个，分别是： 字节的 Trae 腾讯的 qClaw 腾讯的 Workbuddy 老牌的 Cursor Anthropic 的 Claude Code OpenAI 的 Codex 以及我自己的一个私人推荐：Obsidian 加 claudian八个选手 3.2万 从 Claude到Codex ：八大桌面 Agent 锐评 小白能用的 Agent 工具锐评从夯到拉，我们说的这个大家都能用的桌面 Agent 工具，不是那种黑乎乎的编程工具。 这次入选的选手有 8 个，分别是： 字节的 Trae 腾讯的 qClaw 腾讯的 Workbuddy 老牌的 Cursor Anthropic 的 Claude Code OpenAI 的 Codex 以及我自己的一个私人推荐：Obsidian 加 claudian八个选手
+										212 link Description: 東叔讲史丶：范蠡致富之路：走暗路，耕瘦田，进窄门！ 3.8万 范蠡致富之路：走暗路，耕瘦田，进窄门！, Value: douyin.com/video/7657407500454530338
+										213 link Description: 阿泽在做agent：在github上发现了一个有意思的智能体，给大家看看效果#ai #智能体 #量化 399 在github上发现了一个有意思的智能体，给大家看看效果#ai #智能体 #量化, Value: douyin.com/video/7657886344152190234
+										214 link Value: douyin.com/video/7654642254410250163, Description: 极致AI：2026年死磕这两个工作流，就是这个民间故事工作流#每天学习一点点 #coze #干货分享 #科技改变生活 #副业 5669 2026年死磕这两个工作流，就是这个民间故事工作流#每天学习一点点 #coze #干货分享 #科技改变生活 #副业
+										215 link Value: douyin.com/video/7657860463048346922, Description: 七喜_AI大模型：如果让我回到学AI的第一天 我一定不会走这三个弯路 #大模型 #ai#ai大模型 #人工智能 #程序员 259 如果让我回到学AI的第一天 我一定不会走这三个弯路 #大模型 #ai#ai大模型 #人工智能 #程序员
+										216 link Description: 小莫AI笔记：GitHub爆了，全自动出片，小白必备 #编程 #软件 #自媒体工具 #AI神器 5934 GitHub爆了，全自动出片，小白必备 #编程 #软件 #自媒体工具 #AI神器, Value: douyin.com/video/7657179005724003610
+										217 link Value: douyin.com/video/7645269431458843958, Description: 里昂说AI：Codex有多强？看完你也能用AI为所欲为 #codex #AI工具 #AI教学 #智能体 41.6万 Codex有多强？看完你也能用AI为所欲为 #codex #AI工具 #AI教学 #智能体
+										218 link Value: douyin.com/video/7651193613700144360, Description: 青木Echo：分享一款3D水墨风提示词 结尾有画面风格参数#悟空#超燃剪辑 #ai漫剧 #抖音ai创作大赛 2247 分享一款3D水墨风提示词 结尾有画面风格参数#悟空#超燃剪辑 #ai漫剧 #抖音ai创作大赛
+										219 link Value: douyin.com/video/7657396189131055450, Description: 江小南：我没有花前月下，忙事业了，这一忙就老了。就老了。。。😭😭😭 #大话西游 #芦苇荡 #赵季平 #周星驰 3.3万 我没有花前月下，忙事业了，这一忙就老了。就老了。。。😭😭😭 #大话西游 #芦苇荡 #赵季平 #周星驰
+										220 link Value: douyin.com/video/7656255883160063274, Description: 梦兮：用Codex+Obsidian，1 小时快速了解陌生行业 用 Codex + Obsidian 搭建一个可持续生长的行业研究知识库。以 AI 芯片存储为案例，展示如何从零生成阅读路线、完整研究框架、产业链地图、玩家库、风险地图和季度跟踪表，并用 LLM Wiki 方法把每次资料整理变成长期积累。 #Codex #Obsidian #LLMWiki #AI新星计划#ai让我提前下班 3854 用Codex+Obsidian，1 小时快速了解陌生行业 用 Codex + Obsidian 搭建一个可持续生长的行业研究知识库。以 AI 芯片存储为案例，展示如何从零生成阅读路线、完整研究框架、产业链地图、玩家库、风险地图和季度跟踪表，并用 LLM Wiki 方法把每次资料整理变成长期积累。 #Codex #Obsidian #LLMWiki #AI新星计划#ai让我提前下班
+										221 link Value: douyin.com/video/7649372254647700782, Description: Echo的Ai指南：专为deepseek打造的AI终端 #ai #claudecode #deepseek #大模型 #agent 1579 专为deepseek打造的AI终端 #ai #claudecode #deepseek #大模型 #agent
+										222 link Value: douyin.com/video/7629171305689959706, Description: 碳基生物退役指南：龙虾🦞大战爱马仕🐎（一） 本期我就测一个最基础的问题： 联网搜索。 第一轮不做任何优化，直接默认配置开跑： 查一下 iPhone 17 在中国的价格。 结果是—— ✅ Hermes：答对了，但跑了5分钟 ⚠️ 龙虾：也答对了，但跑了7分钟，token 还烧得我头皮发麻 说白了，这一轮没有赢家。 因为对普通用户来说，“能答对”根本不够，慢、贵、低效，本身就是翻车。 第二轮我开始针对国内环境动手： Hermes 尽量避开 Google 龙虾接上 SearXNG 然后它俩终于像样了。 尤其龙虾，优化前后几乎像两个产品： ✅ 优化前：海外搜索+反爬+疯狂 fetch，低效到离谱 ✅ 优化后：速度起来了，推荐结果也更准了，token 消耗直接被打下来了 所以这期实测给我的最大感受就是： AI Agent 真不是装完就能用，环境不对再强的模型也得翻车 #hermesagent #ai智能体 #ai测评 #llm #openclaw 9396 龙虾🦞大战爱马仕🐎（一） 本期我就测一个最基础的问题： 联网搜索。 第一轮不做任何优化，直接默认配置开跑： 查一下 iPhone 17 在中国的价格。 结果
+										223 link Value: douyin.com/note/7656667630728765075, Description: 小吕同学（AI版）：下载了很多skill怕以后忘记调用怎么办。那就自己做一个skill能力看台吧！用过什么skill或者看到了好的skill可以不忘记直接调用#codex使用教程 #skill #vibecoding大赏 2689 下载了很多skill怕以后忘记调用怎么办。那就自己做一个skill能力看台吧！用过什么skill或者看到了好的skill可以不忘记直接调用#codex使用教程 #skill #vibecoding大赏
+										224 link Value: douyin.com/video/7656757652491423027, Description: 三立方：Codex新插件，淘汰RPA以及重复性动作 #AI自动化 #ai自动化插件 #vibecoding大赏 #ai新星计划 #codex @抖音科技 9737 Codex新插件，淘汰RPA以及重复性动作 #AI自动化 #ai自动化插件 #vibecoding大赏 #ai新星计划 #codex @抖音科技
+										225 link Value: douyin.com/video/7653357704689356067, Description: 图寻AI：Codex在端午节送出大礼包！record&replay 本期视频介绍了record&replay的功能，以及使用示例演示功能的用法！ 这个功能可以让Codex录下你在Mac上演示的一段操作流程，然后把它整理成一个 可以复用可以编辑的skill。如果后面你想重复执行这段工作流，只需要跟它说一句话，它就可以自动帮你执行。 #AI新星计划 #Codex #AI #agent #智能体 1322 Codex在端午节送出大礼包！record&replay 本期视频介绍了record&replay的功能，以及使用示例演示功能的用法！ 这个功能可以让Codex录下你在Mac上演示的一段操作流程，然后把它整理成一个 可以复用可以编辑的skill。如果后面你想重复执行这段工作流，只需要跟它说一句话，它就可以自动帮你执行。 #AI新星计划 #Codex #AI #agent #智能体
+										226 link Value: douyin.com/video/7652239485098347817, Description: 小白debug：VibeCoding大赏 | 怎么手搓一个OpenClaw! Claude Code怎么全自动跑13小时？实测GLM5.2#Claudecode #智谱 #GLM #AI新星计划 #vibecoding大赏 1.1万 VibeCoding大赏 | 怎么手搓一个OpenClaw! Claude Code怎么全自动跑13小时？实测GLM5.2#Claudecode #智谱 #GLM #AI新星计划 #vibecoding大赏
+										227 link Value: douyin.com/video/7650813418760359203, Description: 小天fotos：多Agent无人值守跑了4天，14万行代码，用了什么编排？ #ai新星计划 #vibecoding大赏 #抖音前沿科技首发计划 #多Agent #独立开发者 这是Niuma的第一次大型实战，用自己重构了自己 @抖音科技 6023 多Agent无人值守跑了4天，14万行代码，用了什么编排？ #ai新星计划 #vibecoding大赏 #抖音前沿科技首发计划 #多Agent #独立开发者 这是Niuma的第一次大型实战，用自己重构了自己 @抖音科技
+										228 link Description: 石头屋的派老师：能让你的AI开口说话的工具 #热点小助手 #AI #Agent @DOU+小助手 17 能让你的AI开口说话的工具 #热点小助手 #AI #Agent @DOU+小助手, Value: douyin.com/video/7657473046726446371
+										229 link Value: douyin.com/video/7648269649494199562, Description: 叶秋大大：让HermesAgent零Token调用工具的解决方法 深扒Hermes源码，从数据处理中间件技术突破，我的实操方法梳理#hermes #ai智能体#token#ai技能#ai大模型 2064 让HermesAgent零Token调用工具的解决方法 深扒Hermes源码，从数据处理中间件技术突破，我的实操方法梳理#hermes #ai智能体#token#ai技能#ai大模型
+										230 link Description: 26 如何让AI自动管理你的私有知识库？ #个人知识库 #开源ai工具 #ai自动化 #skills #新媒体运营, Value: douyin.com/video/7657576294997085482
+										231 link Value: douyin.com/video/7647581500464246257, Description: 4962 别再死磕大模型了！小模型才是普通人的机会 2026年所有科技巨头都在卷万亿参数大模型，但真正闷声发大财的聪明人，都在反向玩“小模型”！独立开发者CJ只花11美金就完成了Voice Agent微调，把大厂上万刀的API账单直接砍到400刀！当微调门槛被彻底打碎，真正的护城河变成了“数据集工厂”。别再只当AI的消费者了，今年去训练一个只为你特定岗位拼命的专属模型！#ai行业新风口 #ai创业 #ai #模型训练 #ai小模型
+										232 link Value: douyin.com/video/7657094771197955354, Description: 5641 GitHub上这个5万星项目，把AI做成了股票分析 这个项目有点像个人版 AI 投研助理：多市场数据聚合、AI 决策报告、Web 工作台、Agent 策略问股、自动定时推送都做了。 最狠的是可以用 GitHub Actions 零成本跑定时分析，不一定要服务器。 但要说清楚：这不是荐股，也不是自动赚钱机器，本质是信息整理和辅助决策系统。 #GitHub #AI项目 #AI投研 #股票分析 #开源项目
+										233 link Description: 38 第一次用codex做一个小视频 虽然做得并不好，还是想记录一下嘿嘿 #codex#vibecoding #ai #科技感#ai视频, Value: douyin.com/video/7657217407274191332
+										234 link Value: douyin.com/video/7650852232820264233, Description: 711 Hermes：不碰键盘鼠标，照样操控你的电脑 给Hermes一台Windows电脑，但不准碰键盘鼠标。它自己打开了“此电脑”、Edge浏览器，截图、启动应用、执行命令——十九个操控工具，全程没碰一下。你的电脑能让AI这么玩吗？评论区说说。🤖#Hermes #AI打工人 #电脑操控 #AI自动化 #AI纪录片
+										235 link Value: douyin.com/video/7633047151270006056, Description: 4192 Hermes agent 精装攻略 Hermes精装攻略 | 从毛坯到全能助手 🔥 90%的人没有用出Hermes的真正潜力，手把手教你从零精装，解锁AI真正实力！#Hermes #AIagent #AI工具 #AI数字分身 #AI教程
+										236 link Description: 4.2万 为什么财富自由要靠投资，而不是工作？#财富自由#投资#工作, Value: douyin.com/video/7653843283274067618
+										237 link Description: 5446 Hermes安装完后还需要哪些操作？ #openclaw #ai #人工智能 #上热搜 #大数据, Value: douyin.com/video/7634059158723860691
+										238 link Description: 318 2026年死磕这两个工具，过年也能开路虎#干货分享建议收藏 #ai工具大全 #自媒体运营 #短视频运营技巧 #工具箱大全, Value: douyin.com/video/7657150364512939505
+										239 link Value: douyin.com/video/7655721991399296291, Description: 2.7万 简单的事才有复利 一定不要做难而复杂的事儿。 你是不是听过那句话，要做难而正确的事儿？我告诉你，错的。 我做了20年项目。2003年开始接软件开发项目，油田项目，我是中专生，要补高等数学，计算机全是自学的。挣钱了吗？挣了。但这种事儿做完一个清零一个，最后只攒了点人脉和零散知识。像不像你在公司做一个项目又一个项目，做完就清零？ 后来我做咨询，一天费用五位数。咨询有积累——做一个项目知识留下来，共同部分变成课程。但还不够简单。 现在我做短视频，从知识库里拿出来一个知识分享，用户来问问题，AI从知识库里调现成方案，几乎不花我精力。偶尔有新问题，也是在我现有基础上升级。解决完变成新素材，飞轮越转越快。 收益=利润×用户数×复购。越这么做，复利越大。 每天问自己三个问题：今天做的事明天会清零吗？这个成果还能给谁用？越积累越丰厚吗？ #个人成长 #复利思维 #赚钱方法 #普通人逆袭 #姜胡说
+								240 container
+									241 link Description: 广告投放, Value: oceanengine.com/resource/douyin
+									242 link Description: 用户服务协议, Value: douyin.com/agreements/
+									243 link Description: 隐私政策, Value: douyin.com/agreements/
+									244 link Description: 账号找回, Value: douyin.com/recovery_account/
+									245 link Description: 联系我们, Value: douyin.com/aboutus/
+									246 link Description: 加入我们, Value: douyin.com/aboutus/
+									247 link Description: 营业执照, Value: douyin.com/business_license/
+									248 link Description: 友情链接, Value: …
+									249 link Description: 站点地图, Value: …
+									250 link Description: 下载抖音, Value: …
+									251 link Description: 抖音电商, Value: …
+									252 link Description: 网络谣言曝光台 ｜, Value: …
+									253 link Description: 网上有害信息举报, Value: …
+									254 文本 ｜ 违法和不良信息举报：400-140-2108 feedback@douyin.com ｜ 算法推荐专项举报：sfjubao@bytedance.com | 体育饭圈专项举报：tyfq@bytedance.com
+									255 link Description: 京ICP备16016397号-3, Value: …
+									256 文本 ｜ 广播电视节目制作经营许可证 （京）字第11313号
+									257 文本 ｜ 增值电信业务经营许可证 京B2-20170846
+									258 文本 ｜ 网络文化经营许可证 京网文〔2025〕0181-061号 ｜
+									259 container
+										260 未加标签的图片 icon
+										261 link Description: 京公网安备 11000002002046号, Value: …
+									262 文本 ｜ 互联网宗教信息服务许可证 京（2025）0000017
+									263 文本 热门：
+									264 link Description: 抖音美食推荐, Value: …
+									265 link Description: 抖音官网, Value: …
+									266 link Description: 杭州孪生画室, Value: …
+									267 link Description: 枣庄机电工业学校（原峄城区职业中专），今年没有3+2连读招生计划，峄城区的学生应该如何报考？#枣庄教育 #枣庄中考 #峄城区职业中专 #枣庄机电工业学校 #枣庄中专, Value: …
+									268 link Description: 苹果高考寓意, Value: …
+									269 link Description: 物理高考高频考点, Value: …
+									270 link Description: 唐山2025高考成绩, Value: …
+									271 link Description: 塞尔维亚青年为何偏爱中国, Value: …
+									272 link Description: 高分子材料系列，注塑模具设计评审#老杨秀模具 #老杨秀塑料#抖音塑料课堂, Value: …
+									273 link …
+									274 link Description: 一直以为是智商税，没想到这么有用，那我拼命摁住她的手脚时算什么算什么#母婴好物 #宝妈分享 #宝宝好物推荐, Value: …
+									275 link Description: 摩托罗拉1984-2020上集 Hello moto 是不是满满的回忆 用过的留下机型#经典手机 #摩托罗拉, Value: …
+									276 link Description: 有套路，有章法的去实现某个目的，成功的概率会提升百分之80。#抖音运营 #短视频创业 #副业指南 #婚恋相亲, Value: …
+									277 link Description: 当我在减肥过程中第一次出现情绪崩溃...#减肥 #掉秤 #减肥崩溃 #蜕变过程 #大码身材, Value: …
+						278 图像
+					279 按钮
+			280 标签组 (settable, string)
+				281 弹出式按钮 (settable, string) 标签页搜索
+				282 container (settable, string)
+					283 标签 (selected, settable, boolean) Description: @守望的抖音 - 抖音, Value: on
+						284 按钮 (settable, string) 关闭
+				285 按钮 (settable, string) 新标签页
+	286 关闭按钮
+	287 全屏幕按钮 Help: 此按钮也可以执行缩放窗口的操作, Secondary Actions: 缩放窗口
+	288 最小化按钮
+289 menu bar
+	290 Chrome
+	291 文件
+	292 编辑
+	293 显示
+	294 历史记录
+	295 书签
+	296 个人资料
+	297 标签页
+	298 窗口
+	299 帮助
+
+The focused UI element is 144 标签 (selected) 视频, Value: 1

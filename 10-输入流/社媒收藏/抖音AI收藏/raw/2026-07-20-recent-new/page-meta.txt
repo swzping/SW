@@ -1,0 +1,6 @@
+date=2026-07-20
+page_title=@守望的抖音 - 抖音
+page_url=https://www.douyin.com/user/self?from_tab_name=main&showSubTab=video&showTab=favorite_collection
+capture_mode=1 screen screenshot + AXLink accessibility batch
+js_in_applescript=disabled
+verified_time_fields=none

@@ -1,0 +1,383 @@
+{
+  "date": "2026-07-15",
+  "timezone": "Asia/Shanghai",
+  "source": "douyin favorite_collection video recent top area",
+  "capture": {
+    "screens": 10,
+    "estimated_cards": 110,
+    "evidence_dir": "raw/2026-07-15-recent-new/",
+    "title_link_source": "accessibility-links.tsv",
+    "ocr_files": [
+      "ocr-01.tsv",
+      "ocr-02.tsv",
+      "ocr-03.tsv",
+      "ocr-04.tsv",
+      "ocr-05.tsv",
+      "ocr-06.tsv",
+      "ocr-07.tsv",
+      "ocr-08.tsv",
+      "ocr-09.tsv",
+      "ocr-10.tsv"
+    ],
+    "screenshot_files": [
+      "screen-01.png",
+      "screen-02.png",
+      "screen-03.png",
+      "screen-04.png",
+      "screen-05.png",
+      "screen-06.png",
+      "screen-07.png",
+      "screen-08.png",
+      "screen-09.png",
+      "screen-10.png"
+    ],
+    "verified_time_seen": false,
+    "notes": [
+      "Titles and links were recovered from macOS Accessibility AXLink nodes after screenshot/OCR capture.",
+      "No collection time or publish time field was visible."
+    ]
+  },
+  "ai_candidates": [
+    {
+      "topic": "AI 动态 / Agent",
+      "author": "AI研究所",
+      "original_title": "第4集 | 7.14 AI热榜TOP5 | AI Agent生态爆发：从编码到安全的全面智能体化",
+      "url": "https://www.douyin.com/video/7662288876249060709",
+      "evidence": "screen-01",
+      "status": "AX确认标题和链接"
+    },
+    {
+      "topic": "Coding Agent / 记忆",
+      "author": "亦挽亦挽",
+      "original_title": "一句话让你的 codex 拥有永久记忆，并可随时调用",
+      "url": "https://www.douyin.com/video/7662370288369722984",
+      "evidence": "screen-01",
+      "status": "AX确认标题和链接"
+    },
+    {
+      "topic": "AI 应用 / 人脉",
+      "author": "AI观察员马特",
+      "original_title": "为什么我建议你和用AI应用的人做朋友？",
+      "url": "https://www.douyin.com/video/7660918456908401954",
+      "evidence": "screen-01",
+      "status": "AX确认标题和链接"
+    },
+    {
+      "topic": "AI 智能体 / 内容生产",
+      "author": "沫沫",
+      "original_title": "ai大模型智能体，漫剧，短剧，商品带货全都能做，速度快，不排队，最主要是够便宜",
+      "url": "https://www.douyin.com/video/7662280979087679077",
+      "evidence": "screen-01",
+      "status": "AX确认标题和链接"
+    },
+    {
+      "topic": "UI Skill / 前端",
+      "author": "西瓜同学🍉",
+      "original_title": "我把设计经验做成UI Skill，新手也可让AI拥有高级审美",
+      "url": "https://www.douyin.com/video/7662251858534157620",
+      "evidence": "screen-01",
+      "status": "AX确认标题和链接"
+    },
+    {
+      "topic": "Coding Agent / 使用习惯",
+      "author": "均均很AI",
+      "original_title": "关掉Codex前必做一步，90%的人不知道！建议收藏！",
+      "url": "https://www.douyin.com/video/7661597461782298074",
+      "evidence": "screen-01",
+      "status": "AX确认标题和链接"
+    },
+    {
+      "topic": "桌面 Agent / 电脑控制",
+      "author": "IT小圈",
+      "original_title": "让Codex能操控你整台电脑，Codex只会写代码？35K Star神器，给它配上这个直接接管电脑",
+      "url": "https://www.douyin.com/video/7654887463021825316",
+      "evidence": "screen-01",
+      "status": "AX确认标题和链接"
+    },
+    {
+      "topic": "Agent 成本 / 开源",
+      "author": "小莫AI笔记",
+      "original_title": "10 万开发者接入，解决AI Agent最烧钱的问题",
+      "url": "https://www.douyin.com/video/7661854881023593768",
+      "evidence": "screen-02",
+      "status": "AX确认标题和链接"
+    },
+    {
+      "topic": "Codex 插件",
+      "author": "同旭AI",
+      "original_title": "Codex大更新后，这4个插件一定要装，装完直接从拉到夯！",
+      "url": "https://www.douyin.com/video/7661671147267722505",
+      "evidence": "screen-02",
+      "status": "AX确认标题和链接"
+    },
+    {
+      "topic": "Coding Agent / 持续执行",
+      "author": "小冯不意why",
+      "original_title": "一周没开电脑，项目天天在跑？ai时代随时随地都能开启项目+落地灵感的最佳实践",
+      "url": "https://www.douyin.com/video/7660514647171162874",
+      "evidence": "screen-02",
+      "status": "AX确认标题和链接"
+    },
+    {
+      "topic": "智能体定制",
+      "author": "大模型观察员Andy",
+      "original_title": "做了3个AI智能体后，我悟出了这套定制方法论",
+      "url": "https://www.douyin.com/video/7661453329196715306",
+      "evidence": "screen-02",
+      "status": "AX确认标题和链接"
+    },
+    {
+      "topic": "Prompt / 学习",
+      "author": "AIGC大狮",
+      "original_title": "强到可怕！4句AI指令！高效掌握任何领域知识",
+      "url": "https://www.douyin.com/video/7661464978440836787",
+      "evidence": "screen-02",
+      "status": "AX确认标题和链接"
+    },
+    {
+      "topic": "Codex Handoff",
+      "author": "子杰Kyro",
+      "original_title": "Codex新出了个Handoff功能",
+      "url": "https://www.douyin.com/note/7659423797208010011",
+      "evidence": "screen-03",
+      "status": "AX确认标题和链接"
+    },
+    {
+      "topic": "Skill / 动效网页",
+      "author": "猪老师讲AI",
+      "original_title": "这个Skill太权威了，不管什么行业都能做出顶级动效网页！",
+      "url": "https://www.douyin.com/video/7660526630506351922",
+      "evidence": "screen-03",
+      "status": "AX确认标题和链接"
+    },
+    {
+      "topic": "知识库 / Obsidian",
+      "author": "yibolas｜AI研习社",
+      "original_title": "Codex+Obsidian全自动知识库。知识库搭建",
+      "url": "https://www.douyin.com/note/7659258629581014003",
+      "evidence": "screen-03",
+      "status": "AX确认标题和链接"
+    },
+    {
+      "topic": "Agent 架构 / Token",
+      "author": "镜澈AI落地",
+      "original_title": "AI越用越贵？我靠这招省85%token",
+      "url": "https://www.douyin.com/video/7660446876664433530",
+      "evidence": "screen-03",
+      "status": "AX确认标题和链接"
+    },
+    {
+      "topic": "Claude Code / Loop",
+      "author": "MING's Agent舱",
+      "original_title": "之前分享过loop engineering，最近claude把他们对loop的定义，以及如何在claude code中使用也分享出来了",
+      "url": "https://www.douyin.com/video/7660022301278896115",
+      "evidence": "screen-03",
+      "status": "AX确认标题和链接"
+    },
+    {
+      "topic": "Claude Code / Skill",
+      "author": "阿森编程日记（AI自动化）",
+      "original_title": "让ClaudeCode替你打工，这5个Skill配齐就是一家 AI 公司！",
+      "url": "https://www.douyin.com/video/7659429779623464232",
+      "evidence": "screen-04",
+      "status": "AX确认标题和链接"
+    },
+    {
+      "topic": "团队管理自动化",
+      "author": "夹心不扎心",
+      "original_title": "飞书＋Codex自动化搞定团队管理",
+      "url": "https://www.douyin.com/video/7659727732409929010",
+      "evidence": "screen-04",
+      "status": "AX确认标题和链接"
+    },
+    {
+      "topic": "Codex 额度 / 使用策略",
+      "author": "AI多巴胺大叔",
+      "original_title": "Codex 额度不够用？试试这个思路",
+      "url": "https://www.douyin.com/video/7659673588265438510",
+      "evidence": "screen-04",
+      "status": "AX确认标题和链接"
+    },
+    {
+      "topic": "多 Agent / 一人公司",
+      "author": "川页chauny",
+      "original_title": "（已开源）多Agent组成一人公司，让Claudecode，Codex，Openclaw协同工作。Github项目名称HiveWard",
+      "url": "https://www.douyin.com/note/7643661777967810555",
+      "evidence": "screen-05",
+      "status": "AX确认标题和链接"
+    },
+    {
+      "topic": "Agent 架构",
+      "author": "AlunTalk",
+      "original_title": "Agent的7种架构，从入门到企业级一次讲清",
+      "url": "https://www.douyin.com/video/7656405823026924806",
+      "evidence": "screen-05",
+      "status": "AX确认标题和链接"
+    },
+    {
+      "topic": "Team Agent / 飞书",
+      "author": "小天fotos",
+      "original_title": "Team Agent 时刻来了，飞书发布多维表格智能体",
+      "url": "https://www.douyin.com/video/7657756936452017458",
+      "evidence": "screen-05",
+      "status": "AX确认标题和链接"
+    },
+    {
+      "topic": "Codex 入门 / 教程",
+      "author": "里昂说AI",
+      "original_title": "Codex有多强？看完你也能用AI为所欲为",
+      "url": "https://www.douyin.com/video/7645269431458843958",
+      "evidence": "screen-06",
+      "status": "AX确认标题和链接"
+    },
+    {
+      "topic": "DeepSeek / AI 终端",
+      "author": "Echo的Ai指南",
+      "original_title": "专为deepseek打造的AI终端",
+      "url": "https://www.douyin.com/video/7649372254647700782",
+      "evidence": "screen-06",
+      "status": "AX确认标题和链接"
+    },
+    {
+      "topic": "Skill / 能力看台",
+      "author": "小吕同学（AI版）",
+      "original_title": "下载了很多skill怕以后忘记调用怎么办。那就自己做一个skill能力看台吧！",
+      "url": "https://www.douyin.com/note/7656667630728765075",
+      "evidence": "screen-06",
+      "status": "AX确认标题和链接"
+    },
+    {
+      "topic": "Codex / RPA",
+      "author": "三立方",
+      "original_title": "Codex新插件，淘汰RPA以及重复性动作",
+      "url": "https://www.douyin.com/video/7656757652491423027",
+      "evidence": "screen-06",
+      "status": "AX确认标题和链接"
+    },
+    {
+      "topic": "多 Agent 编排",
+      "author": "小天fotos",
+      "original_title": "多Agent无人值守跑了4天，14万行代码，用了什么编排？",
+      "url": "https://www.douyin.com/video/7650813418760359203",
+      "evidence": "screen-06",
+      "status": "AX确认标题和链接"
+    },
+    {
+      "topic": "Hermes / 桌面控制",
+      "author": "AI赫尔慕斯",
+      "original_title": "Hermes：不碰键盘鼠标，照样操控你的电脑",
+      "url": "https://www.douyin.com/video/7650852232820264233",
+      "evidence": "screen-07",
+      "status": "AX确认标题和链接"
+    },
+    {
+      "topic": "Skill 生态",
+      "author": "煜林AI工坊",
+      "original_title": "这是一个让安装skill卖家集体失业的网站",
+      "url": "https://www.douyin.com/video/7656818655732174123",
+      "evidence": "screen-07",
+      "status": "AX确认标题和链接"
+    },
+    {
+      "topic": "Codex 配置",
+      "author": "五津的宝藏AI",
+      "original_title": "难怪用Codex效率低，90%人漏了自定义配置",
+      "url": "https://www.douyin.com/video/7656789300789776741",
+      "evidence": "screen-08",
+      "status": "AX确认标题和链接"
+    },
+    {
+      "topic": "AI 投研 / 多 Agent",
+      "author": "耐门每日秀",
+      "original_title": "把价值投资方法论变成多 Agent 投研团队",
+      "url": "https://www.douyin.com/video/7656672183359524150",
+      "evidence": "screen-08",
+      "status": "AX确认标题和链接"
+    },
+    {
+      "topic": "知识库 / Obsidian",
+      "author": "知雪",
+      "original_title": "教你用Codex + Obsidian搭建自动迭代生长知识库",
+      "url": "https://www.douyin.com/video/7651623453228816633",
+      "evidence": "screen-08",
+      "status": "AX确认标题和链接"
+    },
+    {
+      "topic": "内容生产 / HyperFrames",
+      "author": "阿朱星际漫步",
+      "original_title": "加强版Hyperframes来了，Codex做视频更牛了！",
+      "url": "https://www.douyin.com/video/7656524507749928207",
+      "evidence": "screen-09",
+      "status": "AX确认标题和链接"
+    },
+    {
+      "topic": "自动发布",
+      "author": "IT小圈",
+      "original_title": "Codex自媒体平台自动发布，给Codex装上这个21K Star开源神器",
+      "url": "https://www.douyin.com/video/7655922371957755171",
+      "evidence": "screen-09",
+      "status": "AX确认标题和链接"
+    },
+    {
+      "topic": "Claude Code / A股数据",
+      "author": "Simon林",
+      "original_title": "Claude Code教学系列：搭建大A稳定的数据源 a-stock-data，5千Star开源项目",
+      "url": "https://www.douyin.com/video/7653756770950647074",
+      "evidence": "screen-09",
+      "status": "AX确认标题和链接"
+    },
+    {
+      "topic": "Photoshop / 设计自动化",
+      "author": "像素与咖啡时光",
+      "original_title": "Codex操作Photoshop画图，把image的文件做成了分层psd格式",
+      "url": "https://www.douyin.com/video/7646831754472459561",
+      "evidence": "screen-10",
+      "status": "AX确认标题和链接"
+    },
+    {
+      "topic": "Agent 基础概念",
+      "author": "义拾叁",
+      "original_title": "搞懂Agent三大核心概念",
+      "url": "https://www.douyin.com/video/7636404277572865321",
+      "evidence": "screen-10",
+      "status": "AX确认标题和链接"
+    }
+  ],
+  "suspected_duplicates": [
+    {
+      "topic": "Coding Agent / 旧条目",
+      "author": "默拉智能- 不吃早餐",
+      "original_title": "Claude Code 模型切换到 claude-fable-5",
+      "url": "https://www.douyin.com/note/7657790343055681664",
+      "status": "suspected_duplicate"
+    },
+    {
+      "topic": "Agent / 旧条目",
+      "author": "怎杨学AI",
+      "original_title": "把AI拉个群给你打工？这才是普通人用AI的正确姿势",
+      "url": "https://www.douyin.com/video/7659351472479456566",
+      "status": "suspected_duplicate"
+    },
+    {
+      "topic": "Skill / 旧条目",
+      "author": "袋鼠帝",
+      "original_title": "开源仓颉.Skill，你现在可以蒸馏任何视频！",
+      "url": "https://www.douyin.com/video/7659323081614592227",
+      "status": "suspected_duplicate"
+    },
+    {
+      "topic": "Agent / 旧条目",
+      "author": "阿泽在做agent",
+      "original_title": "我给自己雇了4个AI员工？！",
+      "url": "https://www.douyin.com/video/7659386615529245986",
+      "status": "suspected_duplicate"
+    },
+    {
+      "topic": "一人公司 / 旧条目",
+      "author": "IT小圈",
+      "original_title": "Codex+一人公司，72K Star神器，一个人+Codex=一人公司",
+      "url": "https://www.douyin.com/video/7659341416912424246",
+      "status": "suspected_duplicate"
+    }
+  ]
+}

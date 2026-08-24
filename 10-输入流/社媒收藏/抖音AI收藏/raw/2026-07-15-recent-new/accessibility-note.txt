@@ -1,0 +1,1 @@
+AppleScript JavaScript execution in Chrome is disabled in this browser profile, so no DOM text dump was available. A deeper macOS accessibility traversal later succeeded and saved visible Douyin card titles/links to `accessibility-links.tsv`. Screenshots and local Vision OCR remain the image evidence.
