@@ -1,6 +1,6 @@
 # AI/Agent 名词雷达索引
 
-最近更新：2026-07-04
+最近更新：2026-08-25
 
 用途：这是一份“防止名词雪崩”的索引。它不追求收录所有新词，而是帮我判断一个名词属于什么层级、是否值得长期跟踪、下一步应该放进哪里。
 
@@ -43,6 +43,7 @@
 | Tool Calling / Function Calling | 工具机制 | A | 模型输出结构化工具调用，由外部程序执行。 | 拆原子知识，链接 Agent。 |
 | Computer Use | 工具能力 | B | Agent 操作桌面或浏览器 UI 的能力。 | 前端 QA 方向可跟踪。 |
 | Browser Use | 工具能力 | B | Agent 控制浏览器进行测试、操作和验证。 | 前端 QA MCP 方向可跟踪。 |
+| WebMCP / Site tools | 网站工具表面 / browser tool surface | B | 让网站直接向 `ChatGPT Work / Codex` 暴露可调用工具，说明网站正在从“被浏览对象”变成“可操作工具节点”。 | 挂到 `MCP` 与 `Browser Use` 交叉观察。 |
 | Safari MCP server | 浏览器工具 / MCP server | B | 浏览器厂商把 Safari 调试能力暴露给 Agent 的 MCP 接口。 | 挂到 `Browser Use` 与 `MCP` 交叉观察。 |
 
 ## Agent 方法论
@@ -67,6 +68,8 @@
 | Claude Code | 编码 Agent | A | Anthropic 面向代码任务的 Agent/CLI 工作流。 | 链接 [[../../../20-原子知识/概念/Claude Code 团队模式]]。 |
 | Claude Fable 5 | 模型 | B | Anthropic 面向长程推理和 Agent 工作的高能力模型。 | 作为模型观察项，暂不建主题地图。 |
 | GPT-5.x | 模型线 | B | OpenAI 当前前沿模型线，影响 Codex 和 Agent 能力上限。 | 在 LLM 主题中跟踪。 |
+| Team Chat Agent Entry | 工作流入口 | B | 让 agent 进入 Slack、chat workspace 或团队协作面板的入口层。 | 先挂在 `Agent` 主题下观察。 |
+| Token-safe Connector Proxy | 基础设施模式 | A | 让 agent 以受控代理方式接入外部系统，而不暴露用户 token。 | 链接 `MCP`、`AI 基础设施`。 |
 
 ## 工具、项目与产品
 
@@ -77,6 +80,8 @@
 | Hermes Agent | 自生长 Agent  | B   | 强调持久记忆、技能沉淀和 MCP 支持的 Agent 项目。                | 建产品项目笔记。                                                      |
 | LangGraph    | Agent 框架   | B   | 构建可控 Agent workflow 的框架。                      | 前端不优先，但 Agent 架构可跟踪。                                          |
 | OpenRouter   | AI Gateway | B   | 多模型路由、fallback 和成本控制平台。                       | 已有相关原子知识。                                                     |
+| OpenHuman    | memory 工具  | B   | 把 memory / workspace / context database 收成开源样本。        | 作为 `memory workspace` 方向继续观察。                                    |
+| OmniRoute    | AI Gateway  | B   | 多模型路由和控制面样本。                                  | 作为 `AI gateway / routing` 方向继续观察。                              |
 
 ## 前端开发者特别关注
 

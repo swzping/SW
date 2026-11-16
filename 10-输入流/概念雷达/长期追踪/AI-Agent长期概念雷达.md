@@ -2,7 +2,7 @@
 
 用途：这是长期维护的 AI/Agent 概念观察池。它不是某一天的日报，而是从日报、网络资料和对话中沉淀出的长期概念地图。后续如果某个概念反复出现，再拆成 `20-原子知识/`，并链接到 `30-主题地图/Agent.md`、`30-主题地图/RAG.md` 或新主题地图。
 
-最近更新：2026-08-20
+最近更新：2026-08-31
 
 ## 一句话总览
 
@@ -24,6 +24,11 @@ AI/Agent 领域正在从“模型会回答”转向“系统会行动”。你�
 - `GPT-5.6` 已进入 `ChatGPT`、`Codex` 与 `OpenAI API`，进一步补强了“模型升级会直接并入统一工作台执行层”的判断；后续更值得跟踪的不是单次模型名字，而是它如何改变 `默认入口、异步任务、浏览器工作、review workflow`。
 - `Codex in ChatGPT` 当前已明确写出：`gpt-5.4` 与 `gpt-5.4-mini` 将在 `2026-08-31` 退役，默认迁移到 `gpt-5.6-terra` 与 `gpt-5.6-luna`。这进一步说明统一工作台不只是在统一入口，也开始统一管理 `默认模型生命周期`、`scheduled tasks` 与 `custom agents` 的兼容层。
 - `GPT-5.6 Sol Ultrafast` 进一步补出一条新证据：统一工作台未来不只要管理“默认用哪个模型”，还要管理“默认走哪种执行速度层”。这说明 `execution speed tier` 也在进入工作台控制面，而不再只是底层服务细节。
+- `Vercel for Slack` 继续补强一条判断：统一工作台的入口不只会长在 IDE 或 browser，也会扩到 `team chat` 这种协作面板。
+- `OpenBot`、`Wake`、`cumora` 这组 GitHub 热仓进一步补出了一层社区侧证据：统一工作台之外，还开始出现专门围绕 `agent session browse / resume / shared surface` 的壳层尝试。这说明 `session workspace` 很可能不是短期 UI 花样，而是工作台能力正在外显成独立补全层。
+- `Introducing admin plugin` 则补出一个新的治理层证据：统一工作台未来不只要统一入口和模型生命周期，还会把 `plugin / app surface` 与组织级管理一起收进默认控制面。
+- `GPT-6 Astra` 在 `2026-09-03` 进入 ChatGPT release notes，并在 Business / Work / Codex 文档里开始滚动开放，说明统一工作台已经不只是“统一模型入口”，而是在把 `长任务模型 + work/codex allowance + rollout governance` 一起收进同一个产品层。
+- `Site tools (WebMCP)` 在 `2026-08-25` 进入 `ChatGPT & Codex changelog`，说明 OpenAI 正把“网站本身暴露工具给 agent”做成默认工作面能力；对前端开发者来说，这意味着未来网站不只是被浏览或截图，也可能被当成可调用的工具表面。
 
 关注问题：
 
@@ -77,6 +82,8 @@ AI/Agent 领域正在从“模型会回答”转向“系统会行动”。你�
 - `GitHub MCP Server supports the next MCP specification` 进一步补了一条工程期证据，说明 MCP 接下来更像 `spec / host / SDK` 的兼容性赛道，而不是单纯工具目录赛道。
 - `2026-07-28 MCP Specification Release Candidate` 把 `stateless core`、`Tasks extension`、`MCP Apps`、`authorization hardening`、`formal deprecation policy` 一次性写进正式升级路径，说明 MCP 现在不只是“生态热”，而是开始进入 `host / gateway / SDK / auth` 的系统工程阶段。
 - `Agent Plugins 1.0 in VS Code, Copilot CLI, and the Copilot app` 进一步补出一条很强的新证据：`skills + MCP servers` 已经开始被一起打包进跨客户端插件标准，并能配合企业设置与 MCP allowlists 使用。这说明 MCP 的下一步不只是“更多 server”，而是会更深地进入 `插件分发、策略管理、跨 host 安装、组织治理`。
+- `v0 authenticates to Snowflake without exposing the user's OAuth token` 说明 MCP / connector / app builder 侧正在显式形成 `token-safe proxy` 设计模式；对真正接企业系统的 agent 来说，这会比“能连上”更重要。
+- `Site tools (WebMCP)` 说明 MCP-like 工具表面正在进一步外溢到网站层：网站不只被 agent 浏览，也可以直接向 `ChatGPT Work / Codex` 暴露可调用动作。这让 `browser / MCP 工具` 的边界开始汇合成 `website-native tool surface`。
 
 关注问题：
 
@@ -93,6 +100,7 @@ AI/Agent 领域正在从“模型会回答”转向“系统会行动”。你�
 - Google Cloud 解释：<https://cloud.google.com/discover/what-is-model-context-protocol>
 - MCP Apps：<https://modelcontextprotocol.io/extensions/apps/overview>
 - Enterprise-Managed Authorization：<https://modelcontextprotocol.io/extensions/auth/enterprise-managed-authorization>
+- ChatGPT & Codex changelog：<https://developers.openai.com/codex/changelog>
 - Safari MCP server：<https://webkit.org/blog/18136/introducing-the-safari-mcp-server-for-web-developers/>
 - GitHub MCP Server next spec：<https://github.blog/changelog/2026-07-25-github-mcp-server-supports-the-next-mcp-specification/>
 - MCP 2026-07-28 RC：<https://blog.modelcontextprotocol.io/posts/2026-07-28-release-candidate/>
@@ -206,6 +214,53 @@ AI/Agent 领域正在从“模型会回答”转向“系统会行动”。你�
 - `Skills in the Agents SDK` 与 `Copilot code review: Agent skills and MCP now generally available` 这组官方线索说明，`Skill` 已不只是 agent 运行时里的能力注入点，而是在进一步进入 `review workflow`、`team runtime`、`异步工程流`。
 - `Agent Plugins 1.0` 则把这条线再往前推进了一步：`Skill` 不再只是 runtime 中的一段能力描述，也开始成为 `可安装、可分发、可市场化、可治理` 的插件单元，并且和 `MCP server` 配置绑定在一起。对前端开发者来说，这更像未来 `Design System MCP`、`Frontend QA MCP`、`Knowledge Workspace MCP` 的实际产品壳层。
 - `Anthropic-Cybersecurity-Skills`、`mattpocock/skills`、`VoltAgent/awesome-agent-skills` 这组高 star 样本进一步补了一条生态层证据：Skill 正在从“少数官方平台功能”长到 `通用 skill 仓库 + 垂直行业 skill pack + 聚合目录` 三层并行的分发结构。它说明 Skill 的下一阶段不只会比“谁支持 skill”，还会比 `谁有更好的发现、治理、复用和领域化能力`。
+- `anthropics/skills` 在 GitHub 上持续高热，进一步补出一条新证据：`Skill` 不只停留在文档页或平台功能说明里，也开始进入 `官方公开仓库 -> 社区发现 -> 团队复用` 这条分发链路。对你来说，这比单个高 star skill 仓库更重要，因为它说明 `skill distribution layer` 已开始被平台方亲自占位。
+- `skill distribution layer` 现在可以单独看：skill 的价值不只在内容本身，而在可安装、可发现、可复用、可治理的分发结构。
+
+### Team Chat Entry
+
+它是什么：agent 从 IDE、browser 或控制台继续外溢到 `Slack / chat workspace` 这类团队协作界面。
+
+为什么重要：这会决定异步任务、handoff、审批和通知最终落在哪一层。对前端开发者来说，它直接影响 `browser tooling`、`review workflow` 和 `long-running tasks` 的默认入口。
+
+最近判断更新：
+
+- `Vercel for Slack` 说明聊天入口不只是通知层，而开始变成 agent 的任务入口。
+- 如果这条线继续增强，未来 agent 的默认入口可能会分裂成 `IDE`、`chat`、`browser` 三个面，而不是只押一个壳层。
+- `The new GitHub Copilot experience in Slack` 与 `Shared agentic work with GitHub Copilot in Microsoft Teams` 进一步补强了一条新判断：`team chat` 已不是单一厂商的边缘尝试，而在开始跨 `Slack / Teams` 这类企业协作面板扩散。
+- 这说明 `team chat entry` 更应该被看成 `agent work surface`，而不只是提醒、审批或状态通知层。
+- `cumora` 这类开源样本又补了一条社区侧证据：`team chat` 不只被大厂当作集成入口，也开始被开源项目当作 agent 默认协作壳层来做。这说明这条线正在从“平台功能”长向“产品类别”。
+
+关注问题：
+
+- team chat 是不是会变成 agent 的低摩擦入口？
+- chat surface 和 IDE surface 的权限、审计和上下文如何统一？
+
+来源：
+
+- Vercel: <https://vercel.com/blog/introducing-vercel-for-slack>
+
+### Token-safe Connector Proxy
+
+它是什么：在连接外部系统时，不直接把用户 token 暴露给上层 agent，而是通过受控代理、安全换发或 user-scoped auth 来完成访问。
+
+为什么重要：这是 agent 真正接企业系统时的安全边界。没有这一层，`connector` 只能算 demo；有了这一层，才可能进入真实工作流。
+
+最近判断更新：
+
+- `v0 authenticates to Snowflake without exposing the user's OAuth token` 把这个模式写成了公开工程样本。
+- 它说明连接器接入的竞争点，正在从“能不能连”转向“如何不泄露凭证地连”。
+- `The end of credential sprawl for agents` 说明这条线已经从单个 app builder 的工程技巧升级成 `secure connectivity layer` 产品层；现在更值得观察的不是“这个技巧能否成立”，而是它会不会变成主流 `connector / MCP host / AI gateway` 的默认结构。
+- `short-lived, scoped tokens`、`server-side minting / refresh`、`protocol-defined auth field injection` 这组做法已经形成更稳定的设计模式，重要性高于单一连接器接入本身。
+
+关注问题：
+
+- 这个 proxy 层会不会成为 AI app builder 的默认能力？
+- 它会不会和 MCP authorization / enterprise governance 合并？
+
+来源：
+
+- Vercel: <https://vercel.com/blog/how-v0-authenticates-to-snowflake-without-exposing-the-users-oauth-token>
 
 关注问题：
 
